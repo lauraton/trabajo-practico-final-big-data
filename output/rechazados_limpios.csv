@@ -1,0 +1,1212 @@
+id_reserva,fecha_reserva,fecha_checkin,fecha_checkout,hotel,ciudad,pais,tipo_habitacion,huespedes,noches,precio_noche,total,canal
+RES00001,2024-04-12,2024-05-29,2024-06-07,Posada del Sol,Salta,Argentina,doble,3,9.0,95.5,859.5,telefono
+RES00002,2025-04-07,2025-07-04,2025-07-08,Hotel Andino,Mendoza,Argentina,simple,1,4.0,60.0,240.0,web_propia
+RES00004,2024-10-27,2024-12-29,2025-01-07,Posada del Sol,Florianopolis,Brasil,doble,2,9.0,119.38,1074.42,booking
+RES00005,2024-05-08,2024-05-21,2024-05-27,Mirador Resort,Florianopolis,Brasil,doble,2,6.0,119.38,716.28,booking
+RES00006,2025-05-27,2025-08-08,2025-08-13,Hotel Andino,Bariloche,Argentina,simple,2,5.0,66.0,330.0,booking
+RES00007,2024-10-01,2024-11-16,2024-11-24,Hotel Andino,Salta,Argentina,doble,1,8.0,95.5,764.0,web_propia
+RES02335,2024-03-21,2024-05-04,2024-05-09,Posada del Sol,Punta del Este,Uruguay,doble,4,5.0,119.38,596.9,web_propia
+RES00010,2025-06-04,2025-08-24,2025-09-02,Posada del Sol,Cusco,Peru,doble,1,9.0,95.5,859.5,web_propia
+RES00017,2024-03-30,2024-05-09,2024-05-12,Gran Plaza,Cartagena,Colombia,simple,2,3.0,66.0,198.0,telefono
+RES00020,2025-05-21,2025-06-18,2025-06-28,Costa Azul,Punta del Este,Uruguay,doble,3,10.0,119.38,1193.8,telefono
+RES00021,2024-11-23,2024-12-10,2024-12-11,Hotel Andino,Florianopolis,Brasil,simple,2,1.0,66.0,66.0,agencia
+RES00024,2024-08-29,2024-11-13,2024-11-20,Mirador Resort,Mendoza,Argentina,suite,1,7.0,198.0,1386.0,booking
+RES00026,2023-11-28,2024-02-03,2024-02-10,Posada del Sol,Mendoza,Argentina,simple,2,7.0,75.0,525.0,telefono
+RES00027,2025-07-08,2025-09-24,2025-10-01,Gran Plaza,Salta,Argentina,doble,2,7.0,119.38,835.66,agencia
+RES00030,2023-10-23,2024-01-08,2024-01-15,Gran Plaza,Cartagena,Colombia,suite,2,7.0,198.0,1386.0,agencia
+RES00032,2025-01-05,2025-03-31,2025-04-09,Gran Plaza,Florianopolis,Brasil,doble,1,9.0,95.5,859.5,booking
+RES00035,2024-06-09,2024-08-10,2024-08-13,Posada del Sol,Cusco,Peru,doble,1,3.0,119.38,358.14,web_propia
+RES00038,2023-12-12,2024-01-19,2024-01-26,Posada del Sol,Florianopolis,Brasil,simple,4,7.0,75.0,525.0,web_propia
+RES00039,2025-09-06,2025-11-13,2025-11-20,Mirador Resort,Mendoza,Argentina,simple,2,7.0,66.0,462.0,agencia
+RES00040,2025-05-16,2025-08-12,2025-08-22,Mirador Resort,Cusco,Peru,suite,1,10.0,198.0,1980.0,telefono
+RES00042,2024-03-18,2024-04-28,2024-05-05,Gran Plaza,Florianopolis,Brasil,doble,4,7.0,95.5,668.5,agencia
+RES00043,2024-09-15,2024-11-23,2024-11-29,Gran Plaza,Mendoza,Argentina,doble,1,6.0,95.5,573.0,agencia
+RES01210,2024-06-06,2024-06-29,2024-07-07,Costa Azul,Punta del Este,Uruguay,suite,2,8.0,225.0,1800.0,web_propia
+RES00044,2025-10-24,2025-12-11,2025-12-17,Hotel Andino,Mendoza,Argentina,simple,1,6.0,60.0,360.0,web_propia
+RES00046,2024-09-22,2024-12-11,2024-12-14,Hotel Andino,Cusco,Peru,doble,1,3.0,119.38,358.14,booking
+RES00047,2025-07-27,2025-09-08,2025-09-16,Posada del Sol,Mendoza,Argentina,doble,2,8.0,119.38,955.04,telefono
+RES00050,2023-12-21,2024-03-04,2024-03-05,Costa Azul,Florianopolis,Brasil,simple,2,1.0,66.0,66.0,booking
+RES00056,2025-06-23,2025-08-25,2025-09-02,Hotel Andino,Mendoza,Argentina,doble,4,8.0,95.5,764.0,web_propia
+RES00448,2024-04-26,2024-07-07,2024-07-17,Gran Plaza,Mendoza,Argentina,doble,3,10.0,119.38,1193.8,telefono
+RES00058,2025-04-05,2025-06-06,2025-06-10,Costa Azul,Bariloche,Argentina,doble,2,4.0,105.05,420.2,agencia
+RES00059,2025-07-20,2025-09-22,2025-09-25,Mirador Resort,Bariloche,Argentina,suite,2,3.0,225.0,675.0,booking
+RES00060,2025-06-11,2025-07-06,2025-07-09,Hotel Andino,Mendoza,Argentina,simple,3,3.0,60.0,180.0,booking
+RES00063,2024-06-04,2024-06-14,2024-06-20,Hotel Andino,Bariloche,Argentina,simple,4,6.0,66.0,396.0,booking
+RES00065,2024-08-26,2024-10-31,2024-11-08,Gran Plaza,Bariloche,Argentina,doble,4,8.0,119.38,955.04,telefono
+RES00066,2025-01-31,2025-04-07,2025-04-13,Mirador Resort,Mendoza,Argentina,doble,3,6.0,119.38,716.28,web_propia
+RES00069,2025-02-12,2025-05-03,2025-05-12,Posada del Sol,Bariloche,Argentina,suite,3,9.0,225.0,2025.0,agencia
+RES00074,2025-03-09,2025-05-29,2025-05-31,Posada del Sol,Cartagena,Colombia,doble,4,2.0,119.38,238.76,booking
+RES00077,2024-04-17,2024-06-16,2024-06-18,Hotel Andino,Salta,Argentina,suite,3,2.0,198.0,396.0,telefono
+RES02372,2025-08-24,2025-09-21,2025-09-22,Hotel Andino,Punta del Este,Uruguay,doble,2,1.0,105.05,105.05,agencia
+RES00078,2023-12-27,2024-01-22,2024-01-29,Gran Plaza,Cartagena,Colombia,simple,2,7.0,60.0,420.0,web_propia
+RES00080,2024-03-11,2024-03-30,2024-04-09,Gran Plaza,Florianopolis,Brasil,suite,2,10.0,225.0,2250.0,agencia
+RES00081,2025-03-27,2025-05-02,2025-05-08,Costa Azul,Bariloche,Argentina,suite,3,6.0,225.0,1350.0,telefono
+RES00082,2023-11-19,2024-01-09,2024-01-18,Gran Plaza,Cartagena,Colombia,suite,2,9.0,198.0,1782.0,agencia
+RES00083,2025-11-13,2025-12-21,2025-12-26,Costa Azul,Bariloche,Argentina,suite,2,5.0,225.0,1125.0,telefono
+RES00084,2024-04-19,2024-07-18,2024-07-20,Posada del Sol,Cusco,Peru,simple,4,2.0,66.0,132.0,booking
+RES00085,2024-09-07,2024-11-17,2024-11-20,Hotel Andino,Florianopolis,Brasil,suite,4,3.0,225.0,675.0,booking
+RES00086,2024-09-10,2024-09-27,2024-10-05,Hotel Andino,Bariloche,Argentina,suite,1,8.0,198.0,1584.0,booking
+RES00088,2025-09-28,2025-12-14,2025-12-19,Posada del Sol,Mendoza,Argentina,doble,2,5.0,105.05,525.25,agencia
+RES00089,2024-10-01,2024-11-24,2024-11-28,Gran Plaza,Bariloche,Argentina,suite,3,4.0,180.0,720.0,telefono
+RES00091,2024-04-15,2024-04-23,2024-05-01,Hotel Andino,Salta,Argentina,suite,4,8.0,198.0,1584.0,booking
+RES00092,2024-10-04,2024-12-15,2024-12-23,Gran Plaza,Punta del Este,Uruguay,doble,1,8.0,105.05,840.4,telefono
+RES00093,2024-06-11,2024-06-30,2024-07-10,Mirador Resort,Bariloche,Argentina,simple,4,10.0,66.0,660.0,telefono
+RES00096,2025-12-10,2025-12-25,2026-01-03,Gran Plaza,Cusco,Peru,simple,4,9.0,60.0,540.0,web_propia
+RES00097,2024-04-20,2024-07-18,2024-07-28,Gran Plaza,Bariloche,Argentina,doble,2,10.0,95.5,955.0,booking
+RES00803,2024-04-12,2024-05-27,2024-06-01,Posada del Sol,Cusco,Peru,suite,3,5.0,198.0,990.0,web_propia
+RES01151,2024-01-12,2024-01-18,2024-01-25,Posada del Sol,Mendoza,Argentina,doble,1,7.0,105.05,735.35,booking
+RES01496,2025-05-19,2025-06-09,2025-06-11,Mirador Resort,Salta,Argentina,suite,1,2.0,198.0,396.0,telefono
+RES00101,2024-05-28,2024-07-28,2024-08-06,Mirador Resort,Mendoza,Argentina,suite,2,9.0,180.0,1620.0,telefono
+RES00103,2024-11-02,2024-11-13,2024-11-21,Costa Azul,Mendoza,Argentina,suite,2,8.0,198.0,1584.0,web_propia
+RES00104,2025-07-16,2025-10-06,2025-10-15,Gran Plaza,Punta del Este,Uruguay,simple,1,9.0,60.0,540.0,web_propia
+RES00106,2024-01-15,2024-03-08,2024-03-16,Costa Azul,Punta del Este,Uruguay,doble,1,8.0,95.5,764.0,web_propia
+RES00110,2024-01-01,2024-03-12,2024-03-13,Gran Plaza,Cusco,Peru,suite,2,1.0,198.0,198.0,telefono
+RES00112,2025-01-03,2025-02-14,2025-02-24,Posada del Sol,Punta del Este,Uruguay,suite,1,10.0,180.0,1800.0,telefono
+RES00115,2023-12-24,2024-01-29,2024-02-04,Costa Azul,Bariloche,Argentina,simple,2,6.0,60.0,360.0,telefono
+RES00119,2024-06-05,2024-08-19,2024-08-26,Mirador Resort,Punta del Este,Uruguay,simple,4,7.0,75.0,525.0,agencia
+RES00123,2025-02-28,2025-04-19,2025-04-21,Posada del Sol,Cusco,Peru,suite,1,2.0,198.0,396.0,booking
+RES00699,2025-06-28,2025-07-16,2025-07-25,Posada del Sol,Cartagena,Colombia,suite,4,9.0,180.0,1620.0,agencia
+RES00124,2024-07-22,2024-08-30,2024-09-02,Hotel Andino,Mendoza,Argentina,suite,3,3.0,225.0,675.0,agencia
+RES00125,2024-10-04,2024-11-30,2024-12-01,Posada del Sol,Cartagena,Colombia,doble,4,1.0,95.5,95.5,telefono
+RES00126,2024-04-23,2024-05-20,2024-05-29,Hotel Andino,Punta del Este,Uruguay,suite,2,9.0,180.0,1620.0,booking
+RES00128,2024-10-25,2024-12-19,2024-12-20,Costa Azul,Florianopolis,Brasil,doble,1,1.0,105.05,105.05,agencia
+RES00129,2024-10-04,2024-12-05,2024-12-10,Hotel Andino,Cartagena,Colombia,doble,1,5.0,95.5,477.5,booking
+RES00132,2024-10-08,2024-12-05,2024-12-12,Posada del Sol,Cusco,Peru,doble,3,7.0,95.5,668.5,web_propia
+RES00133,2025-04-25,2025-06-15,2025-06-17,Gran Plaza,Salta,Argentina,simple,3,2.0,66.0,132.0,booking
+RES00135,2024-12-21,2025-01-13,2025-01-18,Mirador Resort,Punta del Este,Uruguay,doble,1,5.0,105.05,525.25,agencia
+RES00141,2025-05-02,2025-05-17,2025-05-19,Hotel Andino,Cartagena,Colombia,simple,2,2.0,60.0,120.0,telefono
+RES00147,2024-11-04,2025-01-05,2025-01-10,Hotel Andino,Salta,Argentina,suite,4,5.0,180.0,900.0,telefono
+RES00150,2023-11-24,2024-02-03,2024-02-06,Costa Azul,Cartagena,Colombia,doble,3,3.0,95.5,286.5,booking
+RES00151,2023-12-14,2024-01-28,2024-02-07,Gran Plaza,Cusco,Peru,doble,2,10.0,105.05,1050.5,telefono
+RES00153,2024-11-05,2024-12-29,2025-01-04,Gran Plaza,Bariloche,Argentina,suite,3,6.0,198.0,1188.0,web_propia
+RES00154,2024-02-05,2024-04-19,2024-04-22,Gran Plaza,Bariloche,Argentina,doble,2,3.0,119.38,358.14,telefono
+RES00155,2025-07-02,2025-07-17,2025-07-18,Hotel Andino,Cartagena,Colombia,simple,4,1.0,66.0,66.0,web_propia
+RES00156,2025-07-22,2025-09-01,2025-09-03,Posada del Sol,Mendoza,Argentina,suite,4,2.0,180.0,360.0,booking
+RES00157,2025-10-29,2025-11-15,2025-11-24,Mirador Resort,Mendoza,Argentina,simple,1,9.0,66.0,594.0,booking
+RES00162,2025-09-19,2025-12-14,2025-12-23,Costa Azul,Bariloche,Argentina,suite,2,9.0,180.0,1620.0,web_propia
+RES00164,2025-02-20,2025-03-15,2025-03-25,Hotel Andino,Cusco,Peru,doble,3,10.0,105.05,1050.5,booking
+RES00167,2024-10-30,2024-12-15,2024-12-18,Mirador Resort,Salta,Argentina,simple,1,3.0,75.0,225.0,agencia
+RES00169,2024-04-09,2024-04-14,2024-04-17,Mirador Resort,Punta del Este,Uruguay,simple,4,3.0,66.0,198.0,booking
+RES00170,2024-10-15,2024-12-12,2024-12-17,Hotel Andino,Punta del Este,Uruguay,suite,2,5.0,180.0,900.0,agencia
+RES00172,2024-02-01,2024-03-03,2024-03-12,Posada del Sol,Bariloche,Argentina,simple,3,9.0,75.0,675.0,agencia
+RES00174,2025-05-17,2025-06-22,2025-06-25,Hotel Andino,Cusco,Peru,suite,4,3.0,180.0,540.0,agencia
+RES00176,2024-06-21,2024-09-14,2024-09-20,Mirador Resort,Salta,Argentina,simple,4,6.0,60.0,360.0,booking
+RES00178,2024-06-11,2024-07-13,2024-07-17,Costa Azul,Salta,Argentina,doble,4,4.0,119.38,477.52,booking
+RES00179,2025-04-29,2025-06-07,2025-06-15,Costa Azul,Cartagena,Colombia,simple,2,8.0,60.0,480.0,telefono
+RES00180,2024-09-11,2024-12-03,2024-12-04,Hotel Andino,Bariloche,Argentina,suite,2,1.0,198.0,198.0,telefono
+RES01511,2023-12-27,2024-03-08,2024-03-11,Gran Plaza,Cartagena,Colombia,doble,4,3.0,105.05,315.15,booking
+RES00182,2024-11-13,2025-01-15,2025-01-20,Hotel Andino,Salta,Argentina,simple,3,5.0,75.0,375.0,agencia
+RES00186,2025-07-25,2025-08-15,2025-08-24,Gran Plaza,Mendoza,Argentina,doble,4,9.0,95.5,859.5,telefono
+RES00187,2024-02-24,2024-03-30,2024-04-07,Costa Azul,Cartagena,Colombia,suite,2,8.0,180.0,1440.0,agencia
+RES00188,2025-07-26,2025-08-15,2025-08-18,Gran Plaza,Florianopolis,Brasil,suite,4,3.0,198.0,594.0,agencia
+RES00190,2024-07-09,2024-10-06,2024-10-11,Mirador Resort,Bariloche,Argentina,simple,2,5.0,60.0,300.0,booking
+RES00192,2024-10-13,2024-12-21,2024-12-29,Costa Azul,Mendoza,Argentina,suite,2,8.0,180.0,1440.0,web_propia
+RES00193,2024-07-21,2024-07-30,2024-08-04,Gran Plaza,Salta,Argentina,doble,2,5.0,119.38,596.9,booking
+RES00194,2025-09-12,2025-11-22,2025-11-26,Hotel Andino,Punta del Este,Uruguay,simple,4,4.0,75.0,300.0,web_propia
+RES00196,2025-05-21,2025-06-30,2025-07-09,Hotel Andino,Bariloche,Argentina,simple,3,9.0,66.0,594.0,web_propia
+RES00197,2025-07-08,2025-08-04,2025-08-06,Gran Plaza,Bariloche,Argentina,doble,3,2.0,105.05,210.1,web_propia
+RES00198,2025-03-18,2025-05-21,2025-05-22,Costa Azul,Bariloche,Argentina,suite,2,1.0,198.0,198.0,agencia
+RES00199,2024-06-13,2024-06-27,2024-07-04,Mirador Resort,Punta del Este,Uruguay,simple,2,7.0,75.0,525.0,agencia
+RES00202,2024-06-12,2024-09-02,2024-09-03,Hotel Andino,Salta,Argentina,suite,3,1.0,180.0,180.0,web_propia
+RES00208,2024-10-30,2024-12-15,2024-12-19,Gran Plaza,Punta del Este,Uruguay,doble,2,4.0,119.38,477.52,telefono
+RES00210,2024-11-17,2025-02-10,2025-02-11,Costa Azul,Florianopolis,Brasil,suite,1,1.0,180.0,180.0,web_propia
+RES00211,2024-10-16,2024-12-10,2024-12-17,Hotel Andino,Bariloche,Argentina,suite,1,7.0,225.0,1575.0,booking
+RES00212,2024-10-12,2024-12-19,2024-12-20,Hotel Andino,Salta,Argentina,simple,1,1.0,66.0,66.0,booking
+RES00213,2024-07-10,2024-09-17,2024-09-25,Costa Azul,Bariloche,Argentina,suite,2,8.0,225.0,1800.0,telefono
+RES00215,2024-07-06,2024-07-12,2024-07-22,Mirador Resort,Florianopolis,Brasil,simple,2,10.0,66.0,660.0,agencia
+RES00219,2024-03-30,2024-05-22,2024-05-23,Posada del Sol,Mendoza,Argentina,doble,4,1.0,119.38,119.38,telefono
+RES00220,2024-07-10,2024-08-15,2024-08-24,Posada del Sol,Cartagena,Colombia,simple,4,9.0,60.0,540.0,booking
+RES00221,2024-06-12,2024-09-10,2024-09-20,Posada del Sol,Bariloche,Argentina,simple,1,10.0,60.0,600.0,agencia
+RES00222,2024-06-11,2024-07-15,2024-07-21,Posada del Sol,Mendoza,Argentina,suite,4,6.0,198.0,1188.0,booking
+RES00228,2025-09-01,2025-10-07,2025-10-14,Hotel Andino,Cusco,Peru,suite,1,7.0,198.0,1386.0,agencia
+RES00229,2024-05-18,2024-08-03,2024-08-11,Gran Plaza,Bariloche,Argentina,simple,2,8.0,66.0,528.0,web_propia
+RES00231,2024-10-25,2024-12-29,2025-01-04,Gran Plaza,Cusco,Peru,suite,1,6.0,198.0,1188.0,telefono
+RES00233,2025-09-07,2025-09-20,2025-09-23,Gran Plaza,Mendoza,Argentina,doble,3,3.0,105.05,315.15,agencia
+RES00235,2024-01-08,2024-02-10,2024-02-13,Gran Plaza,Salta,Argentina,simple,4,3.0,75.0,225.0,telefono
+RES00238,2025-06-02,2025-07-10,2025-07-12,Hotel Andino,Salta,Argentina,simple,2,2.0,75.0,150.0,telefono
+RES00244,2025-07-30,2025-10-03,2025-10-11,Mirador Resort,Mendoza,Argentina,doble,3,8.0,105.05,840.4,agencia
+RES00245,2025-05-05,2025-05-19,2025-05-20,Costa Azul,Salta,Argentina,suite,1,1.0,198.0,198.0,booking
+RES00247,2024-08-04,2024-09-19,2024-09-21,Mirador Resort,Mendoza,Argentina,suite,2,2.0,225.0,450.0,telefono
+RES00249,2023-12-27,2024-01-09,2024-01-15,Mirador Resort,Punta del Este,Uruguay,simple,3,6.0,66.0,396.0,booking
+RES00254,2024-01-30,2024-04-29,2024-05-09,Costa Azul,Cartagena,Colombia,suite,2,10.0,198.0,1980.0,web_propia
+RES00821,2024-06-23,2024-08-13,2024-08-16,Mirador Resort,Cartagena,Colombia,doble,4,3.0,105.05,315.15,web_propia
+RES00256,2025-01-04,2025-03-23,2025-03-28,Gran Plaza,Punta del Este,Uruguay,doble,2,5.0,95.5,477.5,web_propia
+RES00258,2024-02-25,2024-05-09,2024-05-19,Mirador Resort,Cusco,Peru,suite,4,10.0,198.0,1980.0,agencia
+RES00259,2024-08-10,2024-09-25,2024-09-27,Mirador Resort,Salta,Argentina,doble,1,2.0,105.05,210.1,telefono
+RES00262,2025-10-25,2025-10-30,2025-11-08,Mirador Resort,Cusco,Peru,suite,2,9.0,180.0,1620.0,booking
+RES00266,2025-06-28,2025-07-22,2025-07-28,Mirador Resort,Florianopolis,Brasil,doble,4,6.0,105.05,630.3,telefono
+RES00268,2024-11-03,2025-01-03,2025-01-04,Posada del Sol,Cusco,Peru,suite,2,1.0,180.0,180.0,booking
+RES00274,2024-10-22,2024-12-31,2025-01-06,Costa Azul,Cusco,Peru,suite,2,6.0,180.0,1080.0,agencia
+RES00276,2024-07-04,2024-09-25,2024-10-02,Hotel Andino,Punta del Este,Uruguay,doble,2,7.0,105.05,735.35,web_propia
+RES00278,2024-06-01,2024-06-16,2024-06-18,Mirador Resort,Bariloche,Argentina,simple,4,2.0,66.0,132.0,booking
+RES00279,2023-11-16,2024-01-04,2024-01-14,Posada del Sol,Cusco,Peru,doble,4,10.0,105.05,1050.5,agencia
+RES00281,2024-07-08,2024-08-20,2024-08-29,Posada del Sol,Salta,Argentina,simple,1,9.0,60.0,540.0,agencia
+RES00284,2025-02-07,2025-04-19,2025-04-28,Mirador Resort,Salta,Argentina,suite,1,9.0,180.0,1620.0,web_propia
+RES00285,2025-02-15,2025-04-29,2025-05-07,Mirador Resort,Salta,Argentina,doble,1,8.0,95.5,764.0,web_propia
+RES00291,2025-06-01,2025-08-26,2025-08-30,Mirador Resort,Mendoza,Argentina,suite,2,4.0,225.0,900.0,web_propia
+RES00293,2025-09-03,2025-10-11,2025-10-12,Costa Azul,Salta,Argentina,suite,3,1.0,180.0,180.0,telefono
+RES00294,2024-01-12,2024-02-23,2024-02-27,Costa Azul,Bariloche,Argentina,suite,2,4.0,198.0,792.0,booking
+RES00295,2024-07-06,2024-07-18,2024-07-28,Hotel Andino,Mendoza,Argentina,suite,4,10.0,180.0,1800.0,telefono
+RES01315,2024-04-01,2024-06-13,2024-06-14,Mirador Resort,Cartagena,Colombia,doble,3,1.0,105.05,105.05,web_propia
+RES00297,2025-05-19,2025-08-01,2025-08-08,Posada del Sol,Punta del Este,Uruguay,doble,3,7.0,95.5,668.5,booking
+RES00299,2025-10-08,2025-11-24,2025-12-04,Mirador Resort,Cusco,Peru,doble,4,10.0,105.05,1050.5,web_propia
+RES00300,2024-10-14,2025-01-03,2025-01-11,Costa Azul,Mendoza,Argentina,doble,4,8.0,95.5,764.0,web_propia
+RES00302,2024-06-26,2024-08-11,2024-08-14,Posada del Sol,Cartagena,Colombia,suite,3,3.0,198.0,594.0,agencia
+RES01535,2024-04-07,2024-04-14,2024-04-18,Costa Azul,Cartagena,Colombia,simple,2,4.0,66.0,264.0,telefono
+RES00304,2024-09-26,2024-11-10,2024-11-18,Mirador Resort,Bariloche,Argentina,suite,2,8.0,225.0,1800.0,booking
+RES00305,2024-07-30,2024-09-28,2024-10-06,Costa Azul,Cusco,Peru,doble,2,8.0,105.05,840.4,agencia
+RES00306,2024-02-24,2024-03-14,2024-03-16,Mirador Resort,Mendoza,Argentina,doble,4,2.0,105.05,210.1,telefono
+RES00309,2024-03-14,2024-04-17,2024-04-20,Mirador Resort,Cartagena,Colombia,simple,4,3.0,66.0,198.0,booking
+RES00311,2025-08-26,2025-10-10,2025-10-13,Costa Azul,Bariloche,Argentina,suite,4,3.0,198.0,594.0,booking
+RES00312,2024-03-19,2024-03-24,2024-03-27,Gran Plaza,Salta,Argentina,suite,4,3.0,180.0,540.0,booking
+RES00313,2024-06-21,2024-07-31,2024-08-02,Gran Plaza,Cartagena,Colombia,doble,1,2.0,119.38,238.76,booking
+RES00316,2024-02-21,2024-03-17,2024-03-21,Mirador Resort,Mendoza,Argentina,simple,1,4.0,75.0,300.0,telefono
+RES00318,2024-03-26,2024-06-05,2024-06-07,Posada del Sol,Punta del Este,Uruguay,simple,3,2.0,60.0,120.0,telefono
+RES00321,2024-12-01,2025-01-09,2025-01-10,Posada del Sol,Cartagena,Colombia,simple,3,1.0,75.0,75.0,web_propia
+RES00323,2024-01-10,2024-02-06,2024-02-13,Costa Azul,Punta del Este,Uruguay,simple,2,7.0,66.0,462.0,telefono
+RES00324,2024-10-04,2024-12-01,2024-12-08,Posada del Sol,Punta del Este,Uruguay,doble,4,7.0,119.38,835.66,agencia
+RES00328,2025-11-19,2025-12-16,2025-12-20,Posada del Sol,Florianopolis,Brasil,suite,1,4.0,225.0,900.0,telefono
+RES00329,2024-08-27,2024-10-05,2024-10-07,Costa Azul,Mendoza,Argentina,simple,1,2.0,60.0,120.0,booking
+RES00331,2025-03-21,2025-04-16,2025-04-24,Gran Plaza,Cusco,Peru,suite,4,8.0,198.0,1584.0,web_propia
+RES00333,2025-09-15,2025-11-04,2025-11-05,Mirador Resort,Florianopolis,Brasil,suite,4,1.0,198.0,198.0,telefono
+RES00337,2024-06-05,2024-07-13,2024-07-17,Mirador Resort,Bariloche,Argentina,doble,2,4.0,119.38,477.52,booking
+RES00339,2025-03-30,2025-06-06,2025-06-15,Costa Azul,Bariloche,Argentina,simple,3,9.0,66.0,594.0,booking
+RES00341,2025-09-19,2025-10-08,2025-10-10,Posada del Sol,Salta,Argentina,suite,4,2.0,180.0,360.0,booking
+RES00342,2025-09-02,2025-09-23,2025-09-24,Costa Azul,Mendoza,Argentina,suite,4,1.0,225.0,225.0,agencia
+RES00344,2024-10-02,2024-11-20,2024-11-22,Posada del Sol,Punta del Este,Uruguay,simple,4,2.0,75.0,150.0,web_propia
+RES00346,2023-10-17,2024-01-11,2024-01-12,Costa Azul,Bariloche,Argentina,suite,1,1.0,225.0,225.0,booking
+RES00347,2025-07-16,2025-10-14,2025-10-20,Posada del Sol,Florianopolis,Brasil,suite,1,6.0,198.0,1188.0,booking
+RES00349,2025-01-30,2025-02-21,2025-03-03,Hotel Andino,Cusco,Peru,suite,3,10.0,225.0,2250.0,booking
+RES00354,2024-01-05,2024-02-15,2024-02-25,Posada del Sol,Florianopolis,Brasil,simple,1,10.0,60.0,600.0,agencia
+RES00357,2024-07-08,2024-09-16,2024-09-20,Gran Plaza,Florianopolis,Brasil,suite,1,4.0,225.0,900.0,web_propia
+RES00358,2024-08-11,2024-11-06,2024-11-16,Posada del Sol,Punta del Este,Uruguay,simple,4,10.0,60.0,600.0,telefono
+RES00359,2025-04-26,2025-05-23,2025-05-27,Hotel Andino,Cusco,Peru,doble,2,4.0,95.5,382.0,booking
+RES00361,2024-12-31,2025-01-07,2025-01-12,Posada del Sol,Cusco,Peru,simple,1,5.0,66.0,330.0,web_propia
+RES00362,2025-10-16,2025-12-15,2025-12-16,Hotel Andino,Salta,Argentina,simple,3,1.0,66.0,66.0,agencia
+RES00366,2024-07-03,2024-07-14,2024-07-23,Hotel Andino,Mendoza,Argentina,suite,4,9.0,225.0,2025.0,telefono
+RES00367,2024-02-04,2024-03-27,2024-04-04,Posada del Sol,Cusco,Peru,suite,2,8.0,225.0,1800.0,telefono
+RES00369,2025-02-05,2025-03-27,2025-03-30,Gran Plaza,Mendoza,Argentina,doble,1,3.0,95.5,286.5,web_propia
+RES00370,2025-05-28,2025-07-10,2025-07-12,Hotel Andino,Salta,Argentina,simple,3,2.0,75.0,150.0,agencia
+RES00372,2024-06-01,2024-08-29,2024-09-05,Posada del Sol,Mendoza,Argentina,simple,4,7.0,66.0,462.0,web_propia
+RES00373,2025-04-01,2025-04-09,2025-04-10,Hotel Andino,Bariloche,Argentina,suite,2,1.0,225.0,225.0,web_propia
+RES00375,2024-10-05,2024-12-09,2024-12-11,Mirador Resort,Punta del Este,Uruguay,simple,1,2.0,75.0,150.0,agencia
+RES00377,2024-08-26,2024-11-24,2024-11-29,Mirador Resort,Salta,Argentina,doble,2,5.0,105.05,525.25,booking
+RES00380,2024-02-20,2024-03-29,2024-04-04,Gran Plaza,Mendoza,Argentina,doble,4,6.0,95.5,573.0,agencia
+RES00381,2024-03-07,2024-06-03,2024-06-13,Costa Azul,Bariloche,Argentina,doble,2,10.0,105.05,1050.5,agencia
+RES00382,2024-07-02,2024-08-18,2024-08-22,Posada del Sol,Bariloche,Argentina,suite,2,4.0,198.0,792.0,agencia
+RES00384,2025-05-13,2025-07-07,2025-07-08,Costa Azul,Bariloche,Argentina,suite,3,1.0,225.0,225.0,web_propia
+RES00385,2024-06-03,2024-08-28,2024-08-31,Costa Azul,Cartagena,Colombia,suite,4,3.0,198.0,594.0,telefono
+RES00386,2023-12-29,2024-01-14,2024-01-22,Posada del Sol,Cartagena,Colombia,suite,4,8.0,225.0,1800.0,booking
+RES00390,2024-07-28,2024-08-03,2024-08-04,Posada del Sol,Punta del Este,Uruguay,simple,2,1.0,75.0,75.0,telefono
+RES00392,2024-07-27,2024-08-25,2024-08-26,Costa Azul,Punta del Este,Uruguay,simple,3,1.0,66.0,66.0,agencia
+RES00394,2024-12-09,2025-01-24,2025-01-30,Posada del Sol,Cusco,Peru,simple,3,6.0,60.0,360.0,web_propia
+RES00395,2024-08-19,2024-11-12,2024-11-13,Posada del Sol,Bariloche,Argentina,simple,3,1.0,66.0,66.0,booking
+RES00398,2025-10-07,2025-12-02,2025-12-04,Posada del Sol,Mendoza,Argentina,suite,4,2.0,180.0,360.0,telefono
+RES00400,2025-01-16,2025-01-27,2025-01-28,Costa Azul,Cartagena,Colombia,suite,3,1.0,198.0,198.0,telefono
+RES00401,2024-01-07,2024-02-28,2024-03-06,Hotel Andino,Cusco,Peru,simple,3,7.0,60.0,420.0,booking
+RES00404,2024-12-08,2025-01-18,2025-01-19,Costa Azul,Cusco,Peru,doble,3,1.0,119.38,119.38,booking
+RES00407,2024-02-06,2024-04-26,2024-04-28,Posada del Sol,Salta,Argentina,suite,1,2.0,225.0,450.0,agencia
+RES00626,2025-03-01,2025-04-02,2025-04-12,Hotel Andino,Florianopolis,Brasil,simple,3,10.0,75.0,750.0,booking
+RES00410,2023-12-19,2024-02-09,2024-02-16,Mirador Resort,Cartagena,Colombia,simple,3,7.0,75.0,525.0,booking
+RES00412,2024-01-15,2024-02-28,2024-03-04,Mirador Resort,Salta,Argentina,simple,1,5.0,66.0,330.0,booking
+RES00415,2024-06-16,2024-09-03,2024-09-06,Mirador Resort,Cusco,Peru,simple,3,3.0,75.0,225.0,web_propia
+RES00416,2024-06-01,2024-08-11,2024-08-19,Costa Azul,Punta del Este,Uruguay,doble,1,8.0,105.05,840.4,web_propia
+RES00933,2025-06-05,2025-09-01,2025-09-07,Mirador Resort,Bariloche,Argentina,simple,1,6.0,75.0,450.0,web_propia
+RES00424,2024-10-13,2024-11-08,2024-11-16,Hotel Andino,Salta,Argentina,suite,3,8.0,225.0,1800.0,telefono
+RES00426,2025-09-12,2025-11-20,2025-11-30,Posada del Sol,Salta,Argentina,suite,3,10.0,180.0,1800.0,telefono
+RES00427,2025-09-02,2025-10-30,2025-11-07,Posada del Sol,Cusco,Peru,simple,4,8.0,75.0,600.0,agencia
+RES00429,2025-04-18,2025-07-07,2025-07-11,Posada del Sol,Florianopolis,Brasil,simple,4,4.0,75.0,300.0,telefono
+RES00430,2025-08-28,2025-11-17,2025-11-22,Costa Azul,Mendoza,Argentina,doble,1,5.0,95.5,477.5,web_propia
+RES00437,2025-02-12,2025-03-13,2025-03-14,Gran Plaza,Mendoza,Argentina,simple,3,1.0,60.0,60.0,booking
+RES00438,2024-05-01,2024-07-04,2024-07-11,Mirador Resort,Cusco,Peru,simple,1,7.0,66.0,462.0,telefono
+RES00440,2025-08-08,2025-08-13,2025-08-21,Posada del Sol,Punta del Este,Uruguay,suite,2,8.0,180.0,1440.0,agencia
+RES00445,2024-01-17,2024-02-02,2024-02-12,Hotel Andino,Florianopolis,Brasil,doble,1,10.0,95.5,955.0,web_propia
+RES00450,2024-12-19,2025-01-09,2025-01-12,Gran Plaza,Cartagena,Colombia,simple,2,3.0,60.0,180.0,agencia
+RES00451,2024-10-20,2025-01-13,2025-01-19,Posada del Sol,Cusco,Peru,suite,2,6.0,180.0,1080.0,web_propia
+RES00452,2025-05-02,2025-06-12,2025-06-22,Costa Azul,Bariloche,Argentina,suite,4,10.0,180.0,1800.0,web_propia
+RES00458,2025-08-10,2025-09-11,2025-09-12,Mirador Resort,Punta del Este,Uruguay,simple,1,1.0,66.0,66.0,web_propia
+RES00459,2024-05-28,2024-08-03,2024-08-07,Costa Azul,Salta,Argentina,doble,4,4.0,95.5,382.0,agencia
+RES00462,2023-11-27,2024-02-20,2024-02-28,Mirador Resort,Punta del Este,Uruguay,suite,4,8.0,180.0,1440.0,booking
+RES00467,2024-02-18,2024-04-23,2024-05-01,Gran Plaza,Salta,Argentina,doble,1,8.0,105.05,840.4,booking
+RES00470,2024-08-22,2024-09-19,2024-09-27,Gran Plaza,Bariloche,Argentina,simple,4,8.0,66.0,528.0,booking
+RES00479,2024-10-14,2025-01-07,2025-01-17,Gran Plaza,Bariloche,Argentina,simple,1,10.0,66.0,660.0,booking
+RES00480,2024-08-08,2024-10-01,2024-10-07,Mirador Resort,Bariloche,Argentina,suite,2,6.0,225.0,1350.0,booking
+RES00481,2025-02-03,2025-02-17,2025-02-20,Posada del Sol,Cartagena,Colombia,simple,3,3.0,66.0,198.0,booking
+RES00483,2024-12-28,2025-02-22,2025-02-23,Mirador Resort,Salta,Argentina,simple,2,1.0,60.0,60.0,agencia
+RES00487,2025-10-10,2025-12-07,2025-12-10,Posada del Sol,Cusco,Peru,simple,2,3.0,60.0,180.0,web_propia
+RES00488,2025-05-03,2025-06-21,2025-06-26,Hotel Andino,Bariloche,Argentina,simple,3,5.0,60.0,300.0,booking
+RES00490,2025-11-05,2025-11-18,2025-11-24,Costa Azul,Punta del Este,Uruguay,simple,4,6.0,75.0,450.0,booking
+RES00491,2024-06-25,2024-07-30,2024-08-06,Mirador Resort,Punta del Este,Uruguay,doble,2,7.0,95.5,668.5,web_propia
+RES00497,2024-01-26,2024-03-19,2024-03-25,Hotel Andino,Punta del Este,Uruguay,doble,4,6.0,105.05,630.3,web_propia
+RES00498,2025-09-03,2025-11-12,2025-11-19,Costa Azul,Cusco,Peru,doble,1,7.0,105.05,735.35,web_propia
+RES00502,2024-11-18,2025-01-09,2025-01-10,Costa Azul,Punta del Este,Uruguay,simple,4,1.0,66.0,66.0,telefono
+RES00503,2025-03-05,2025-03-20,2025-03-28,Posada del Sol,Cusco,Peru,simple,1,8.0,66.0,528.0,booking
+RES00507,2024-08-22,2024-11-18,2024-11-27,Gran Plaza,Mendoza,Argentina,simple,4,9.0,60.0,540.0,agencia
+RES01863,2025-03-03,2025-04-25,2025-04-26,Hotel Andino,Cartagena,Colombia,simple,2,1.0,60.0,60.0,web_propia
+RES00511,2025-07-08,2025-08-06,2025-08-13,Gran Plaza,Bariloche,Argentina,doble,1,7.0,119.38,835.66,booking
+RES00514,2024-01-16,2024-02-02,2024-02-09,Mirador Resort,Punta del Este,Uruguay,simple,4,7.0,60.0,420.0,agencia
+RES00516,2024-11-23,2024-12-03,2024-12-13,Mirador Resort,Cusco,Peru,suite,2,10.0,180.0,1800.0,telefono
+RES00517,2025-07-16,2025-08-22,2025-08-23,Hotel Andino,Salta,Argentina,doble,1,1.0,95.5,95.5,booking
+RES01292,2024-02-29,2024-04-20,2024-04-28,Costa Azul,Salta,Argentina,simple,4,8.0,75.0,600.0,booking
+RES00881,2024-01-25,2024-02-07,2024-02-09,Costa Azul,Punta del Este,Uruguay,doble,2,2.0,95.5,191.0,web_propia
+RES01387,2025-06-04,2025-07-19,2025-07-22,Mirador Resort,Cusco,Peru,suite,4,3.0,198.0,594.0,telefono
+RES00518,2024-08-09,2024-09-22,2024-09-26,Gran Plaza,Cartagena,Colombia,doble,1,4.0,105.05,420.2,web_propia
+RES00519,2024-09-28,2024-11-21,2024-12-01,Hotel Andino,Mendoza,Argentina,suite,2,10.0,180.0,1800.0,agencia
+RES00520,2025-12-05,2025-12-23,2025-12-24,Mirador Resort,Mendoza,Argentina,simple,3,1.0,60.0,60.0,agencia
+RES00522,2024-05-20,2024-06-21,2024-06-28,Costa Azul,Mendoza,Argentina,simple,3,7.0,75.0,525.0,telefono
+RES00523,2024-11-28,2025-01-09,2025-01-17,Posada del Sol,Bariloche,Argentina,suite,4,8.0,180.0,1440.0,agencia
+RES00524,2024-02-02,2024-03-29,2024-04-03,Costa Azul,Mendoza,Argentina,suite,3,5.0,225.0,1125.0,booking
+RES00526,2024-06-21,2024-08-23,2024-08-25,Costa Azul,Bariloche,Argentina,suite,3,2.0,180.0,360.0,booking
+RES00527,2023-12-24,2024-02-16,2024-02-18,Mirador Resort,Cusco,Peru,simple,2,2.0,66.0,132.0,booking
+RES00528,2024-06-11,2024-09-03,2024-09-10,Costa Azul,Florianopolis,Brasil,simple,1,7.0,66.0,462.0,telefono
+RES00531,2024-02-28,2024-04-12,2024-04-22,Hotel Andino,Punta del Este,Uruguay,suite,4,10.0,180.0,1800.0,telefono
+RES00532,2025-07-21,2025-09-13,2025-09-16,Hotel Andino,Salta,Argentina,suite,4,3.0,225.0,675.0,agencia
+RES00533,2023-10-16,2024-01-14,2024-01-20,Gran Plaza,Punta del Este,Uruguay,doble,3,6.0,105.05,630.3,telefono
+RES01467,2024-06-22,2024-07-04,2024-07-11,Costa Azul,Bariloche,Argentina,suite,1,7.0,225.0,1575.0,telefono
+RES00535,2024-09-23,2024-10-24,2024-11-01,Hotel Andino,Mendoza,Argentina,doble,3,8.0,95.5,764.0,booking
+RES00536,2024-11-20,2025-01-11,2025-01-13,Gran Plaza,Florianopolis,Brasil,suite,2,2.0,198.0,396.0,agencia
+RES00538,2025-09-01,2025-10-15,2025-10-16,Costa Azul,Cusco,Peru,simple,4,1.0,66.0,66.0,web_propia
+RES00539,2024-08-13,2024-09-21,2024-09-26,Hotel Andino,Cartagena,Colombia,suite,4,5.0,180.0,900.0,booking
+RES00541,2025-03-08,2025-03-13,2025-03-15,Mirador Resort,Punta del Este,Uruguay,simple,3,2.0,66.0,132.0,telefono
+RES00542,2024-03-11,2024-04-19,2024-04-21,Posada del Sol,Salta,Argentina,doble,2,2.0,105.05,210.1,web_propia
+RES00544,2024-05-18,2024-06-22,2024-06-30,Gran Plaza,Florianopolis,Brasil,doble,3,8.0,95.5,764.0,booking
+RES00545,2025-03-02,2025-05-02,2025-05-10,Mirador Resort,Cusco,Peru,simple,3,8.0,60.0,480.0,booking
+RES00547,2025-05-22,2025-08-07,2025-08-17,Posada del Sol,Cartagena,Colombia,suite,3,10.0,225.0,2250.0,agencia
+RES00549,2023-12-09,2024-01-24,2024-02-03,Hotel Andino,Cartagena,Colombia,suite,3,10.0,198.0,1980.0,agencia
+RES00550,2025-03-29,2025-05-15,2025-05-22,Hotel Andino,Punta del Este,Uruguay,suite,2,7.0,225.0,1575.0,agencia
+RES00553,2024-05-05,2024-07-31,2024-08-03,Hotel Andino,Mendoza,Argentina,suite,4,3.0,180.0,540.0,web_propia
+RES00554,2025-02-25,2025-04-09,2025-04-12,Costa Azul,Florianopolis,Brasil,simple,4,3.0,66.0,198.0,telefono
+RES00565,2025-03-24,2025-06-14,2025-06-15,Costa Azul,Mendoza,Argentina,simple,4,1.0,60.0,60.0,booking
+RES00566,2025-01-05,2025-03-14,2025-03-17,Mirador Resort,Cusco,Peru,doble,2,3.0,95.5,286.5,web_propia
+RES00568,2025-04-18,2025-05-07,2025-05-12,Costa Azul,Salta,Argentina,doble,4,5.0,95.5,477.5,web_propia
+RES00569,2025-09-16,2025-09-26,2025-10-06,Mirador Resort,Punta del Este,Uruguay,suite,2,10.0,180.0,1800.0,web_propia
+RES00571,2025-01-11,2025-03-30,2025-04-01,Posada del Sol,Florianopolis,Brasil,simple,4,2.0,60.0,120.0,web_propia
+RES00572,2023-12-16,2024-02-28,2024-03-04,Mirador Resort,Mendoza,Argentina,suite,4,5.0,180.0,900.0,booking
+RES00573,2024-03-27,2024-04-24,2024-04-29,Posada del Sol,Cusco,Peru,simple,2,5.0,66.0,330.0,agencia
+RES00576,2025-10-18,2025-11-22,2025-11-23,Posada del Sol,Florianopolis,Brasil,doble,1,1.0,105.05,105.05,telefono
+RES00581,2025-01-01,2025-03-10,2025-03-17,Gran Plaza,Mendoza,Argentina,suite,1,7.0,180.0,1260.0,booking
+RES00582,2025-09-04,2025-10-12,2025-10-18,Posada del Sol,Bariloche,Argentina,doble,2,6.0,105.05,630.3,telefono
+RES00583,2025-02-10,2025-02-28,2025-03-10,Hotel Andino,Florianopolis,Brasil,doble,4,10.0,95.5,955.0,web_propia
+RES00584,2024-05-18,2024-08-06,2024-08-09,Posada del Sol,Cartagena,Colombia,suite,3,3.0,180.0,540.0,booking
+RES00586,2025-08-10,2025-10-28,2025-11-06,Costa Azul,Florianopolis,Brasil,suite,4,9.0,180.0,1620.0,telefono
+RES00588,2024-09-24,2024-10-22,2024-10-27,Hotel Andino,Punta del Este,Uruguay,doble,2,5.0,119.38,596.9,agencia
+RES00589,2024-09-29,2024-10-05,2024-10-14,Hotel Andino,Cartagena,Colombia,simple,2,9.0,75.0,675.0,agencia
+RES00593,2024-02-02,2024-04-11,2024-04-20,Costa Azul,Punta del Este,Uruguay,doble,3,9.0,105.05,945.45,telefono
+RES00594,2025-07-08,2025-09-10,2025-09-18,Costa Azul,Cartagena,Colombia,suite,3,8.0,198.0,1584.0,agencia
+RES00595,2024-12-04,2025-02-14,2025-02-23,Mirador Resort,Cusco,Peru,doble,2,9.0,95.5,859.5,booking
+RES00596,2025-09-24,2025-11-08,2025-11-10,Hotel Andino,Mendoza,Argentina,simple,1,2.0,66.0,132.0,agencia
+RES00597,2024-03-02,2024-05-03,2024-05-10,Gran Plaza,Cusco,Peru,suite,3,7.0,180.0,1260.0,web_propia
+RES00598,2025-07-18,2025-08-20,2025-08-27,Costa Azul,Salta,Argentina,simple,2,7.0,66.0,462.0,telefono
+RES00601,2025-06-04,2025-08-22,2025-08-23,Posada del Sol,Salta,Argentina,doble,1,1.0,95.5,95.5,booking
+RES00604,2023-12-01,2024-01-05,2024-01-10,Hotel Andino,Cartagena,Colombia,doble,4,5.0,119.38,596.9,booking
+RES00605,2024-08-03,2024-09-26,2024-10-06,Mirador Resort,Cartagena,Colombia,simple,1,10.0,60.0,600.0,agencia
+RES00606,2025-04-15,2025-05-09,2025-05-19,Gran Plaza,Mendoza,Argentina,doble,3,10.0,95.5,955.0,telefono
+RES00607,2025-12-11,2025-12-17,2025-12-24,Mirador Resort,Cartagena,Colombia,simple,2,7.0,75.0,525.0,web_propia
+RES00609,2024-10-17,2025-01-05,2025-01-10,Mirador Resort,Florianopolis,Brasil,suite,1,5.0,198.0,990.0,web_propia
+RES00611,2025-03-20,2025-04-10,2025-04-20,Mirador Resort,Salta,Argentina,simple,4,10.0,75.0,750.0,booking
+RES00613,2024-10-25,2024-11-24,2024-11-30,Hotel Andino,Cusco,Peru,doble,1,6.0,95.5,573.0,booking
+RES00614,2025-09-04,2025-11-15,2025-11-18,Mirador Resort,Salta,Argentina,suite,2,3.0,198.0,594.0,telefono
+RES00615,2024-03-10,2024-04-21,2024-04-24,Costa Azul,Bariloche,Argentina,doble,4,3.0,105.05,315.15,booking
+RES00616,2024-03-05,2024-05-11,2024-05-13,Posada del Sol,Punta del Este,Uruguay,simple,3,2.0,66.0,132.0,booking
+RES00619,2025-03-08,2025-04-10,2025-04-13,Costa Azul,Cusco,Peru,doble,3,3.0,105.05,315.15,telefono
+RES00620,2025-02-01,2025-02-28,2025-03-09,Mirador Resort,Punta del Este,Uruguay,doble,2,9.0,105.05,945.4499999999999,telefono
+RES00624,2025-06-30,2025-08-29,2025-09-06,Mirador Resort,Florianopolis,Brasil,simple,1,8.0,60.0,480.0,booking
+RES00625,2025-07-18,2025-09-24,2025-09-29,Posada del Sol,Punta del Este,Uruguay,suite,2,5.0,198.0,990.0,booking
+RES00628,2025-09-20,2025-09-30,2025-10-04,Costa Azul,Bariloche,Argentina,doble,4,4.0,95.5,382.0,web_propia
+RES00631,2024-10-14,2024-12-08,2024-12-18,Gran Plaza,Cusco,Peru,suite,3,10.0,180.0,1800.0,booking
+RES00632,2025-07-12,2025-08-06,2025-08-14,Costa Azul,Bariloche,Argentina,suite,2,8.0,198.0,1584.0,telefono
+RES00634,2025-08-18,2025-09-14,2025-09-18,Gran Plaza,Punta del Este,Uruguay,doble,1,4.0,105.05,420.2,telefono
+RES00635,2024-06-14,2024-08-20,2024-08-26,Gran Plaza,Mendoza,Argentina,suite,2,6.0,180.0,1080.0,agencia
+RES00638,2025-03-30,2025-06-10,2025-06-17,Hotel Andino,Punta del Este,Uruguay,doble,1,7.0,119.38,835.66,web_propia
+RES00639,2025-10-12,2025-10-21,2025-10-22,Mirador Resort,Florianopolis,Brasil,suite,3,1.0,198.0,198.0,telefono
+RES00641,2024-10-12,2025-01-08,2025-01-09,Costa Azul,Mendoza,Argentina,simple,3,1.0,66.0,66.0,web_propia
+RES00646,2024-01-09,2024-02-03,2024-02-06,Posada del Sol,Florianopolis,Brasil,suite,1,3.0,180.0,540.0,agencia
+RES00649,2025-11-17,2025-12-25,2025-12-26,Posada del Sol,Bariloche,Argentina,simple,1,1.0,66.0,66.0,booking
+RES00650,2024-11-16,2025-01-24,2025-02-03,Hotel Andino,Cusco,Peru,simple,2,10.0,66.0,660.0,booking
+RES00651,2025-09-20,2025-10-24,2025-10-29,Hotel Andino,Mendoza,Argentina,doble,1,5.0,95.5,477.5,agencia
+RES00653,2023-10-20,2024-01-09,2024-01-19,Costa Azul,Cusco,Peru,doble,2,10.0,95.5,955.0,agencia
+RES00654,2025-09-15,2025-09-28,2025-10-02,Costa Azul,Mendoza,Argentina,suite,3,4.0,225.0,900.0,web_propia
+RES00655,2024-11-28,2025-01-12,2025-01-14,Posada del Sol,Cartagena,Colombia,doble,2,2.0,119.38,238.76,telefono
+RES00664,2024-06-27,2024-07-23,2024-08-02,Costa Azul,Cartagena,Colombia,simple,4,10.0,60.0,600.0,booking
+RES00792,2024-09-25,2024-12-04,2024-12-14,Gran Plaza,Cartagena,Colombia,simple,1,10.0,75.0,750.0,telefono
+RES00667,2023-12-02,2024-02-17,2024-02-23,Mirador Resort,Cusco,Peru,suite,1,6.0,198.0,1188.0,telefono
+RES00670,2024-08-09,2024-09-25,2024-10-05,Mirador Resort,Punta del Este,Uruguay,doble,3,10.0,95.5,955.0,agencia
+RES00671,2024-01-23,2024-02-02,2024-02-10,Costa Azul,Bariloche,Argentina,simple,2,8.0,60.0,480.0,web_propia
+RES00672,2024-07-22,2024-08-26,2024-08-30,Posada del Sol,Mendoza,Argentina,simple,3,4.0,66.0,264.0,web_propia
+RES01208,2025-07-08,2025-09-19,2025-09-21,Mirador Resort,Bariloche,Argentina,simple,1,2.0,60.0,120.0,booking
+RES00673,2025-06-01,2025-07-31,2025-08-10,Hotel Andino,Bariloche,Argentina,suite,2,10.0,225.0,2250.0,booking
+RES00676,2024-10-15,2025-01-11,2025-01-17,Costa Azul,Salta,Argentina,suite,1,6.0,180.0,1080.0,web_propia
+RES00679,2024-11-13,2025-02-05,2025-02-11,Gran Plaza,Florianopolis,Brasil,simple,1,6.0,66.0,396.0,booking
+RES00681,2025-08-08,2025-10-30,2025-11-04,Costa Azul,Cartagena,Colombia,doble,2,5.0,95.5,477.5,web_propia
+RES00682,2025-07-03,2025-09-28,2025-10-04,Hotel Andino,Cartagena,Colombia,suite,2,6.0,225.0,1350.0,booking
+RES00684,2025-04-11,2025-05-30,2025-06-04,Posada del Sol,Bariloche,Argentina,doble,3,5.0,95.5,477.5,telefono
+RES00687,2025-06-26,2025-07-03,2025-07-04,Mirador Resort,Cusco,Peru,doble,4,1.0,119.38,119.38,telefono
+RES00688,2024-05-26,2024-07-18,2024-07-19,Costa Azul,Mendoza,Argentina,suite,2,1.0,180.0,180.0,telefono
+RES00689,2024-12-31,2025-01-05,2025-01-15,Hotel Andino,Cusco,Peru,suite,4,10.0,180.0,1800.0,telefono
+RES00691,2025-07-21,2025-10-13,2025-10-20,Gran Plaza,Cusco,Peru,simple,2,7.0,60.0,420.0,booking
+RES00692,2024-01-18,2024-02-07,2024-02-11,Mirador Resort,Florianopolis,Brasil,suite,3,4.0,180.0,720.0,telefono
+RES00697,2025-11-03,2025-12-07,2025-12-15,Costa Azul,Salta,Argentina,simple,2,8.0,60.0,480.0,booking
+RES00698,2024-05-02,2024-05-20,2024-05-24,Posada del Sol,Punta del Este,Uruguay,simple,3,4.0,75.0,300.0,telefono
+RES00701,2025-02-12,2025-04-06,2025-04-16,Mirador Resort,Bariloche,Argentina,simple,1,10.0,75.0,750.0,agencia
+RES00704,2024-06-01,2024-07-30,2024-08-05,Posada del Sol,Bariloche,Argentina,doble,4,6.0,105.05,630.3,booking
+RES00705,2024-08-03,2024-09-19,2024-09-28,Hotel Andino,Punta del Este,Uruguay,simple,1,9.0,66.0,594.0,agencia
+RES00867,2024-07-01,2024-07-14,2024-07-24,Hotel Andino,Punta del Este,Uruguay,doble,2,10.0,95.5,955.0,agencia
+RES00706,2024-10-05,2024-10-27,2024-10-28,Hotel Andino,Cusco,Peru,suite,3,1.0,180.0,180.0,agencia
+RES00707,2025-07-20,2025-08-08,2025-08-18,Costa Azul,Salta,Argentina,suite,4,10.0,180.0,1800.0,booking
+RES00708,2024-01-04,2024-02-06,2024-02-16,Hotel Andino,Cartagena,Colombia,suite,2,10.0,225.0,2250.0,web_propia
+RES00711,2024-04-16,2024-06-08,2024-06-10,Mirador Resort,Salta,Argentina,doble,4,2.0,119.38,238.76,telefono
+RES00712,2024-03-08,2024-05-09,2024-05-13,Posada del Sol,Cusco,Peru,doble,1,4.0,119.38,477.52,telefono
+RES00713,2024-10-12,2024-11-15,2024-11-23,Mirador Resort,Florianopolis,Brasil,suite,1,8.0,180.0,1440.0,agencia
+RES00718,2024-10-19,2024-12-24,2024-12-27,Gran Plaza,Cartagena,Colombia,simple,1,3.0,66.0,198.0,booking
+RES00719,2024-10-31,2024-11-12,2024-11-22,Costa Azul,Cartagena,Colombia,simple,1,10.0,60.0,600.0,agencia
+RES00791,2025-11-16,2025-12-20,2025-12-25,Costa Azul,Bariloche,Argentina,doble,1,5.0,105.05,525.25,telefono
+RES00724,2024-03-14,2024-06-11,2024-06-16,Posada del Sol,Salta,Argentina,doble,2,5.0,119.38,596.9,booking
+RES00725,2025-10-16,2025-12-20,2025-12-29,Gran Plaza,Florianopolis,Brasil,simple,2,9.0,66.0,594.0,agencia
+RES00728,2025-03-16,2025-05-01,2025-05-11,Mirador Resort,Bariloche,Argentina,simple,3,10.0,75.0,750.0,agencia
+RES00730,2024-06-24,2024-08-25,2024-09-04,Gran Plaza,Punta del Este,Uruguay,suite,1,10.0,198.0,1980.0,telefono
+RES00731,2025-09-15,2025-11-18,2025-11-25,Gran Plaza,Cusco,Peru,doble,3,7.0,95.5,668.5,telefono
+RES00732,2025-01-23,2025-03-08,2025-03-12,Hotel Andino,Florianopolis,Brasil,simple,2,4.0,60.0,240.0,telefono
+RES00734,2025-09-22,2025-11-19,2025-11-27,Posada del Sol,Salta,Argentina,simple,3,8.0,60.0,480.0,telefono
+RES00736,2024-08-14,2024-10-08,2024-10-15,Hotel Andino,Cusco,Peru,suite,2,7.0,225.0,1575.0,web_propia
+RES00737,2025-07-25,2025-09-30,2025-10-06,Mirador Resort,Punta del Este,Uruguay,simple,4,6.0,75.0,450.0,telefono
+RES00739,2025-05-30,2025-08-24,2025-08-27,Costa Azul,Punta del Este,Uruguay,simple,1,3.0,75.0,225.0,web_propia
+RES00740,2025-05-03,2025-07-27,2025-08-04,Posada del Sol,Salta,Argentina,suite,3,8.0,180.0,1440.0,agencia
+RES00741,2024-11-16,2025-02-02,2025-02-05,Hotel Andino,Mendoza,Argentina,suite,4,3.0,180.0,540.0,booking
+RES00742,2024-06-29,2024-08-30,2024-08-31,Hotel Andino,Punta del Este,Uruguay,suite,4,1.0,198.0,198.0,telefono
+RES00746,2024-12-30,2025-01-10,2025-01-19,Gran Plaza,Cartagena,Colombia,suite,3,9.0,180.0,1620.0,telefono
+RES00748,2025-11-10,2025-11-19,2025-11-26,Posada del Sol,Mendoza,Argentina,suite,2,7.0,198.0,1386.0,telefono
+RES00750,2024-09-23,2024-12-16,2024-12-26,Gran Plaza,Punta del Este,Uruguay,doble,1,10.0,105.05,1050.5,agencia
+RES00751,2025-04-19,2025-04-24,2025-04-26,Hotel Andino,Cusco,Peru,doble,2,2.0,119.38,238.76,booking
+RES00755,2025-06-17,2025-07-15,2025-07-19,Costa Azul,Cusco,Peru,doble,1,4.0,95.5,382.0,telefono
+RES00756,2024-08-04,2024-09-19,2024-09-29,Gran Plaza,Salta,Argentina,simple,2,10.0,75.0,750.0,booking
+RES00758,2025-07-08,2025-07-31,2025-08-06,Mirador Resort,Bariloche,Argentina,suite,1,6.0,180.0,1080.0,web_propia
+RES00760,2025-05-02,2025-06-04,2025-06-13,Posada del Sol,Salta,Argentina,suite,3,9.0,180.0,1620.0,booking
+RES00765,2024-10-26,2024-11-09,2024-11-13,Hotel Andino,Bariloche,Argentina,simple,3,4.0,60.0,240.0,booking
+RES00766,2024-01-19,2024-04-10,2024-04-13,Mirador Resort,Cusco,Peru,suite,1,3.0,225.0,675.0,web_propia
+RES00768,2024-02-17,2024-03-19,2024-03-25,Hotel Andino,Bariloche,Argentina,doble,3,6.0,105.05,630.3,telefono
+RES00769,2023-12-28,2024-01-12,2024-01-21,Costa Azul,Punta del Este,Uruguay,suite,3,9.0,225.0,2025.0,web_propia
+RES00771,2024-10-19,2024-11-27,2024-12-06,Posada del Sol,Bariloche,Argentina,simple,1,9.0,66.0,594.0,booking
+RES00773,2025-06-08,2025-06-27,2025-07-02,Gran Plaza,Bariloche,Argentina,doble,2,5.0,105.05,525.25,booking
+RES00777,2025-07-24,2025-08-07,2025-08-11,Posada del Sol,Cartagena,Colombia,suite,1,4.0,225.0,900.0,web_propia
+RES00778,2025-08-08,2025-11-02,2025-11-05,Mirador Resort,Bariloche,Argentina,doble,3,3.0,119.38,358.14,booking
+RES00781,2024-10-21,2024-11-04,2024-11-11,Gran Plaza,Punta del Este,Uruguay,simple,3,7.0,60.0,420.0,agencia
+RES00783,2025-05-31,2025-06-19,2025-06-21,Posada del Sol,Cusco,Peru,doble,3,2.0,95.5,191.0,booking
+RES00784,2023-12-02,2024-02-27,2024-03-07,Hotel Andino,Bariloche,Argentina,suite,2,9.0,180.0,1620.0,booking
+RES00785,2025-10-13,2025-11-25,2025-11-26,Hotel Andino,Mendoza,Argentina,simple,2,1.0,66.0,66.0,booking
+RES00786,2025-01-04,2025-01-16,2025-01-23,Mirador Resort,Bariloche,Argentina,doble,4,7.0,95.5,668.5,web_propia
+RES00787,2025-10-07,2025-10-18,2025-10-27,Hotel Andino,Cusco,Peru,doble,2,9.000000000000002,119.38,1074.42,agencia
+RES00789,2024-03-09,2024-04-21,2024-04-24,Mirador Resort,Bariloche,Argentina,doble,3,3.0,119.38,358.14,agencia
+RES00790,2024-12-13,2025-01-24,2025-01-29,Costa Azul,Cartagena,Colombia,suite,4,5.0,225.0,1125.0,telefono
+RES00796,2024-10-05,2025-01-03,2025-01-08,Gran Plaza,Salta,Argentina,doble,3,5.0,95.5,477.5,agencia
+RES00799,2025-01-04,2025-01-16,2025-01-22,Hotel Andino,Cusco,Peru,doble,4,6.0,95.5,573.0,web_propia
+RES00802,2024-12-22,2025-03-19,2025-03-29,Mirador Resort,Bariloche,Argentina,doble,4,10.0,119.38,1193.8,web_propia
+RES00804,2024-12-12,2025-01-26,2025-02-02,Gran Plaza,Salta,Argentina,suite,4,7.0,225.0,1575.0,web_propia
+RES00808,2025-08-28,2025-11-20,2025-11-23,Mirador Resort,Mendoza,Argentina,doble,2,3.0,95.5,286.5,telefono
+RES00809,2024-08-17,2024-10-01,2024-10-09,Mirador Resort,Florianopolis,Brasil,suite,4,8.0,198.0,1584.0,booking
+RES00810,2023-11-05,2024-01-24,2024-01-30,Gran Plaza,Cusco,Peru,suite,2,6.0,225.0,1350.0,telefono
+RES00818,2024-09-27,2024-11-04,2024-11-12,Gran Plaza,Florianopolis,Brasil,suite,1,8.0,180.0,1440.0,agencia
+RES00820,2025-08-18,2025-10-27,2025-10-28,Hotel Andino,Cartagena,Colombia,doble,2,1.0,105.05,105.05,telefono
+RES00822,2024-12-10,2024-12-31,2025-01-09,Costa Azul,Cusco,Peru,suite,3,9.0,225.0,2025.0,booking
+RES00827,2025-02-27,2025-05-07,2025-05-17,Hotel Andino,Punta del Este,Uruguay,suite,3,10.0,198.0,1980.0,booking
+RES00828,2024-12-23,2025-01-31,2025-02-07,Posada del Sol,Bariloche,Argentina,doble,2,7.0,119.38,835.66,web_propia
+RES00829,2024-09-24,2024-12-22,2024-12-28,Mirador Resort,Mendoza,Argentina,suite,2,6.0,225.0,1350.0,agencia
+RES00832,2025-05-02,2025-07-23,2025-07-26,Posada del Sol,Cusco,Peru,doble,2,3.0,119.38,358.14,agencia
+RES00834,2024-02-05,2024-03-07,2024-03-12,Costa Azul,Bariloche,Argentina,doble,4,5.0,95.5,477.5,web_propia
+RES00837,2025-03-03,2025-03-19,2025-03-23,Posada del Sol,Mendoza,Argentina,simple,1,4.0,60.0,240.0,telefono
+RES00842,2025-09-05,2025-10-25,2025-10-30,Hotel Andino,Bariloche,Argentina,doble,3,5.0,119.38,596.9,booking
+RES00843,2023-12-21,2024-01-14,2024-01-15,Mirador Resort,Florianopolis,Brasil,doble,2,1.0,119.38,119.38,booking
+RES00844,2024-05-06,2024-05-19,2024-05-23,Posada del Sol,Mendoza,Argentina,doble,1,4.0,95.5,382.0,web_propia
+RES00846,2024-03-12,2024-04-14,2024-04-18,Costa Azul,Salta,Argentina,simple,4,4.0,75.0,300.0,agencia
+RES00847,2025-03-04,2025-04-27,2025-05-06,Costa Azul,Salta,Argentina,simple,3,9.0,66.0,594.0,booking
+RES00849,2025-06-24,2025-07-22,2025-07-26,Mirador Resort,Punta del Este,Uruguay,suite,1,4.0,198.0,792.0,agencia
+RES00853,2024-02-13,2024-03-24,2024-04-02,Posada del Sol,Cusco,Peru,suite,3,9.0,225.0,2025.0,telefono
+RES00855,2025-03-27,2025-06-17,2025-06-24,Hotel Andino,Cartagena,Colombia,suite,4,7.0,198.0,1386.0,telefono
+RES00856,2024-09-12,2024-10-19,2024-10-24,Posada del Sol,Punta del Este,Uruguay,suite,2,5.0,198.0,990.0,telefono
+RES00858,2024-12-26,2025-02-20,2025-03-01,Gran Plaza,Cartagena,Colombia,suite,3,9.0,180.0,1620.0,web_propia
+RES00859,2025-06-18,2025-09-08,2025-09-10,Gran Plaza,Cusco,Peru,doble,2,2.0,105.05,210.1,web_propia
+RES00861,2024-01-11,2024-02-26,2024-02-29,Gran Plaza,Cartagena,Colombia,doble,1,3.0,95.5,286.5,telefono
+RES00863,2025-01-29,2025-02-17,2025-02-19,Mirador Resort,Mendoza,Argentina,doble,4,2.0,119.38,238.76,agencia
+RES00864,2024-01-19,2024-02-29,2024-03-04,Mirador Resort,Salta,Argentina,simple,2,4.0,66.0,264.0,booking
+RES00866,2025-07-26,2025-10-11,2025-10-19,Hotel Andino,Salta,Argentina,simple,3,8.0,60.0,480.0,booking
+RES00870,2024-12-08,2025-02-25,2025-03-01,Costa Azul,Mendoza,Argentina,doble,4,4.0,105.05,420.2,booking
+RES00871,2024-08-31,2024-09-06,2024-09-13,Posada del Sol,Cusco,Peru,suite,3,7.0,198.0,1386.0,agencia
+RES00872,2024-05-18,2024-07-12,2024-07-22,Gran Plaza,Bariloche,Argentina,suite,3,10.0,225.0,2250.0,booking
+RES00873,2025-09-15,2025-11-16,2025-11-21,Mirador Resort,Salta,Argentina,simple,2,5.0,60.0,300.0,telefono
+RES00878,2025-12-01,2025-12-27,2025-12-31,Hotel Andino,Cusco,Peru,suite,3,4.0,225.0,900.0,agencia
+RES00879,2024-10-25,2024-11-22,2024-11-30,Mirador Resort,Florianopolis,Brasil,doble,1,8.0,95.5,764.0,agencia
+RES00883,2024-11-17,2025-02-11,2025-02-16,Posada del Sol,Cartagena,Colombia,simple,4,5.0,75.0,375.0,telefono
+RES00891,2025-03-16,2025-03-27,2025-03-30,Mirador Resort,Cusco,Peru,simple,4,3.0,75.0,225.0,web_propia
+RES00893,2024-03-03,2024-05-08,2024-05-15,Gran Plaza,Cartagena,Colombia,simple,2,7.0,60.0,420.0,booking
+RES00894,2024-02-26,2024-03-29,2024-03-31,Costa Azul,Mendoza,Argentina,suite,2,2.0,225.0,450.0,telefono
+RES00897,2024-04-28,2024-05-03,2024-05-11,Costa Azul,Cartagena,Colombia,suite,2,8.0,198.0,1584.0,telefono
+RES00899,2024-06-16,2024-09-03,2024-09-06,Gran Plaza,Cartagena,Colombia,simple,2,3.0,75.0,225.0,booking
+RES00901,2025-10-05,2025-12-13,2025-12-17,Costa Azul,Bariloche,Argentina,doble,2,4.0,119.38,477.52,telefono
+RES00902,2025-09-04,2025-10-27,2025-10-30,Hotel Andino,Punta del Este,Uruguay,suite,2,3.0,225.0,675.0,booking
+RES00903,2024-07-29,2024-10-04,2024-10-10,Mirador Resort,Cartagena,Colombia,simple,1,6.0,66.0,396.0,agencia
+RES00904,2024-02-09,2024-04-04,2024-04-09,Posada del Sol,Mendoza,Argentina,simple,3,5.0,60.0,300.0,telefono
+RES00906,2025-02-03,2025-04-10,2025-04-16,Mirador Resort,Salta,Argentina,suite,2,6.0,198.0,1188.0,booking
+RES00909,2025-07-30,2025-08-04,2025-08-06,Posada del Sol,Mendoza,Argentina,simple,1,2.0,75.0,150.0,booking
+RES00912,2024-02-11,2024-02-24,2024-02-25,Mirador Resort,Cartagena,Colombia,suite,1,1.0,225.0,225.0,agencia
+RES00914,2025-07-18,2025-08-12,2025-08-21,Costa Azul,Cartagena,Colombia,suite,3,9.0,198.0,1782.0,booking
+RES00916,2025-05-23,2025-06-12,2025-06-17,Costa Azul,Salta,Argentina,doble,2,5.0,95.5,477.5,agencia
+RES00918,2025-08-31,2025-09-22,2025-10-02,Posada del Sol,Florianopolis,Brasil,suite,1,10.0,198.0,1980.0,telefono
+RES00919,2025-10-02,2025-11-27,2025-12-02,Gran Plaza,Mendoza,Argentina,suite,2,5.0,225.0,1125.0,web_propia
+RES01799,2024-02-27,2024-03-06,2024-03-11,Costa Azul,Bariloche,Argentina,suite,1,5.0,198.0,990.0,telefono
+RES00920,2024-02-24,2024-04-03,2024-04-12,Hotel Andino,Florianopolis,Brasil,doble,3,9.0,95.5,859.5,agencia
+RES00921,2025-10-11,2025-12-21,2025-12-27,Mirador Resort,Mendoza,Argentina,suite,1,6.0,180.0,1080.0,web_propia
+RES00922,2024-07-28,2024-09-03,2024-09-06,Posada del Sol,Mendoza,Argentina,suite,2,3.0,180.0,540.0,web_propia
+RES00926,2025-02-12,2025-02-17,2025-02-18,Costa Azul,Bariloche,Argentina,doble,1,1.0,119.38,119.38,agencia
+RES00929,2024-07-23,2024-10-07,2024-10-11,Hotel Andino,Salta,Argentina,doble,2,4.0,105.05,420.2,telefono
+RES00931,2024-12-13,2025-03-13,2025-03-20,Costa Azul,Punta del Este,Uruguay,simple,2,7.0,66.0,462.0,web_propia
+RES00932,2025-07-12,2025-08-22,2025-08-25,Mirador Resort,Mendoza,Argentina,doble,2,3.0,95.5,286.5,web_propia
+RES00934,2024-10-15,2024-11-01,2024-11-09,Posada del Sol,Salta,Argentina,simple,2,8.0,66.0,528.0,web_propia
+RES00936,2025-04-26,2025-06-09,2025-06-16,Mirador Resort,Punta del Este,Uruguay,doble,4,7.0,95.5,668.5,booking
+RES00937,2025-01-22,2025-03-31,2025-04-10,Gran Plaza,Bariloche,Argentina,doble,2,10.0,95.5,955.0,booking
+RES00938,2025-01-27,2025-03-04,2025-03-06,Hotel Andino,Punta del Este,Uruguay,doble,1,2.0,95.5,191.0,booking
+RES00939,2025-05-20,2025-06-01,2025-06-10,Posada del Sol,Bariloche,Argentina,doble,2,9.0,95.5,859.5,telefono
+RES01772,2025-11-04,2025-12-22,2025-12-24,Gran Plaza,Bariloche,Argentina,doble,4,2.0,119.38,238.76,telefono
+RES00941,2024-09-08,2024-10-30,2024-11-02,Costa Azul,Cartagena,Colombia,doble,1,3.0,119.38,358.14,agencia
+RES00945,2024-10-15,2024-11-13,2024-11-17,Mirador Resort,Cusco,Peru,doble,4,4.0,105.05,420.2,web_propia
+RES00946,2024-04-02,2024-04-15,2024-04-21,Gran Plaza,Mendoza,Argentina,simple,1,6.0,66.0,396.0,agencia
+RES00947,2024-05-12,2024-06-03,2024-06-11,Posada del Sol,Mendoza,Argentina,suite,3,8.0,198.0,1584.0,web_propia
+RES00949,2025-11-11,2025-11-26,2025-12-04,Hotel Andino,Salta,Argentina,simple,2,8.0,60.0,480.0,telefono
+RES00950,2025-01-24,2025-03-16,2025-03-18,Gran Plaza,Florianopolis,Brasil,suite,2,2.0,180.0,360.0,telefono
+RES00953,2025-06-14,2025-07-15,2025-07-16,Hotel Andino,Mendoza,Argentina,simple,1,1.0,75.0,75.0,web_propia
+RES00955,2025-03-23,2025-06-14,2025-06-15,Costa Azul,Florianopolis,Brasil,simple,4,1.0,60.0,60.0,telefono
+RES00959,2024-05-17,2024-05-26,2024-05-29,Gran Plaza,Mendoza,Argentina,simple,3,3.0,60.0,180.0,telefono
+RES00961,2024-02-08,2024-03-21,2024-03-30,Costa Azul,Mendoza,Argentina,simple,1,9.0,66.0,594.0,telefono
+RES00962,2025-09-19,2025-12-13,2025-12-20,Mirador Resort,Mendoza,Argentina,simple,3,7.0,66.0,462.0,telefono
+RES00967,2025-05-05,2025-06-25,2025-06-26,Mirador Resort,Cusco,Peru,simple,1,1.0,60.0,60.0,web_propia
+RES00974,2024-04-20,2024-07-01,2024-07-08,Gran Plaza,Cusco,Peru,suite,2,7.0,225.0,1575.0,booking
+RES00975,2024-11-14,2024-12-28,2024-12-30,Costa Azul,Bariloche,Argentina,doble,3,2.0,119.38,238.76,booking
+RES00977,2025-05-27,2025-08-11,2025-08-21,Hotel Andino,Bariloche,Argentina,doble,3,10.0,95.5,955.0,booking
+RES00980,2024-10-25,2024-10-30,2024-11-08,Costa Azul,Mendoza,Argentina,simple,4,9.0,66.0,594.0,telefono
+RES00985,2025-08-01,2025-08-12,2025-08-15,Gran Plaza,Salta,Argentina,simple,1,3.0,66.0,198.0,booking
+RES00986,2025-04-16,2025-06-10,2025-06-14,Mirador Resort,Cusco,Peru,simple,3,4.0,66.0,264.0,booking
+RES00987,2025-02-11,2025-03-10,2025-03-15,Hotel Andino,Salta,Argentina,doble,3,5.0,119.38,596.9,web_propia
+RES00988,2024-08-04,2024-10-13,2024-10-21,Mirador Resort,Salta,Argentina,simple,3,8.0,66.0,528.0,agencia
+RES00991,2025-10-06,2025-12-16,2025-12-20,Costa Azul,Punta del Este,Uruguay,doble,1,4.0,119.38,477.52,agencia
+RES00993,2025-03-31,2025-06-03,2025-06-08,Posada del Sol,Florianopolis,Brasil,doble,3,5.0,95.5,477.5,booking
+RES00995,2025-09-05,2025-11-11,2025-11-12,Hotel Andino,Punta del Este,Uruguay,doble,1,1.0,119.38,119.38,web_propia
+RES00998,2025-03-14,2025-05-05,2025-05-10,Costa Azul,Florianopolis,Brasil,suite,4,5.0,225.0,1125.0,agencia
+RES00999,2024-08-09,2024-10-19,2024-10-24,Gran Plaza,Punta del Este,Uruguay,doble,1,5.0,119.38,596.9,telefono
+RES01001,2025-04-18,2025-06-09,2025-06-13,Hotel Andino,Bariloche,Argentina,doble,2,4.0,105.05,420.2,web_propia
+RES01003,2024-10-17,2024-12-08,2024-12-10,Gran Plaza,Punta del Este,Uruguay,simple,1,2.0,75.0,150.0,booking
+RES01004,2025-09-05,2025-11-14,2025-11-17,Mirador Resort,Florianopolis,Brasil,suite,1,3.0,180.0,540.0,telefono
+RES01051,2025-05-27,2025-07-11,2025-07-14,Costa Azul,Cusco,Peru,simple,1,3.0,66.0,198.0,booking
+RES01011,2025-07-07,2025-08-04,2025-08-05,Mirador Resort,Cartagena,Colombia,simple,2,1.0,60.0,60.0,web_propia
+RES01014,2024-07-19,2024-07-28,2024-08-07,Posada del Sol,Florianopolis,Brasil,doble,4,10.0,95.5,955.0,web_propia
+RES02262,2025-03-27,2025-04-15,2025-04-23,Mirador Resort,Punta del Este,Uruguay,simple,3,8.0,75.0,600.0,telefono
+RES01018,2025-09-15,2025-11-27,2025-12-04,Costa Azul,Mendoza,Argentina,doble,3,7.0,105.05,735.35,booking
+RES01026,2024-01-30,2024-03-07,2024-03-15,Costa Azul,Cusco,Peru,doble,4,8.0,119.38,955.04,booking
+RES01028,2025-02-02,2025-02-09,2025-02-16,Costa Azul,Salta,Argentina,suite,3,7.0,180.0,1260.0,telefono
+RES01032,2025-05-09,2025-05-29,2025-06-05,Gran Plaza,Mendoza,Argentina,doble,2,7.0,105.05,735.35,agencia
+RES01033,2025-08-24,2025-09-07,2025-09-16,Mirador Resort,Bariloche,Argentina,suite,1,9.0,225.0,2025.0,agencia
+RES01234,2024-04-08,2024-04-30,2024-05-07,Costa Azul,Cartagena,Colombia,suite,2,7.0,198.0,1386.0,web_propia
+RES01039,2024-01-12,2024-02-21,2024-02-29,Mirador Resort,Punta del Este,Uruguay,doble,2,8.0,105.05,840.4,booking
+RES01041,2024-09-01,2024-11-27,2024-12-03,Posada del Sol,Punta del Este,Uruguay,doble,1,6.0,95.5,573.0,web_propia
+RES01042,2025-04-08,2025-04-28,2025-05-07,Mirador Resort,Florianopolis,Brasil,doble,4,9.0,119.38,1074.42,web_propia
+RES01044,2024-06-02,2024-07-06,2024-07-14,Costa Azul,Mendoza,Argentina,suite,2,8.0,180.0,1440.0,agencia
+RES01046,2024-09-22,2024-09-27,2024-10-04,Posada del Sol,Punta del Este,Uruguay,suite,1,7.0,180.0,1260.0,agencia
+RES01049,2024-03-18,2024-06-15,2024-06-23,Posada del Sol,Mendoza,Argentina,suite,2,8.0,180.0,1440.0,web_propia
+RES01050,2025-08-19,2025-09-28,2025-09-30,Hotel Andino,Punta del Este,Uruguay,suite,4,2.0,198.0,396.0,web_propia
+RES01052,2025-08-13,2025-09-21,2025-09-27,Costa Azul,Punta del Este,Uruguay,simple,4,6.0,75.0,450.0,agencia
+RES01053,2024-06-18,2024-07-25,2024-08-01,Hotel Andino,Florianopolis,Brasil,simple,1,7.0,60.0,420.0,booking
+RES01055,2025-08-03,2025-08-13,2025-08-17,Gran Plaza,Mendoza,Argentina,suite,4,4.0,198.0,792.0,telefono
+RES01056,2024-03-06,2024-04-04,2024-04-10,Costa Azul,Mendoza,Argentina,simple,2,6.0,75.0,450.0,web_propia
+RES01063,2025-10-13,2025-12-02,2025-12-10,Hotel Andino,Florianopolis,Brasil,suite,3,8.0,225.0,1800.0,web_propia
+RES01067,2023-11-30,2024-02-08,2024-02-13,Hotel Andino,Punta del Este,Uruguay,suite,1,5.0,180.0,900.0,web_propia
+RES01072,2025-10-16,2025-11-26,2025-12-03,Posada del Sol,Bariloche,Argentina,suite,1,7.0,180.0,1260.0,booking
+RES01074,2025-01-16,2025-02-21,2025-03-02,Posada del Sol,Punta del Este,Uruguay,suite,2,9.0,225.0,2025.0,telefono
+RES01076,2024-04-24,2024-06-17,2024-06-26,Gran Plaza,Mendoza,Argentina,simple,4,9.0,66.0,594.0,telefono
+RES01080,2025-08-01,2025-09-01,2025-09-10,Gran Plaza,Salta,Argentina,suite,4,9.0,225.0,2025.0,telefono
+RES01081,2025-01-11,2025-01-30,2025-02-07,Gran Plaza,Cartagena,Colombia,simple,4,8.0,60.0,480.0,web_propia
+RES01082,2024-08-23,2024-10-07,2024-10-10,Mirador Resort,Salta,Argentina,doble,1,3.0,105.05,315.15,agencia
+RES01085,2025-03-05,2025-03-11,2025-03-18,Hotel Andino,Cartagena,Colombia,simple,1,7.0,75.0,525.0,telefono
+RES01086,2024-03-25,2024-05-16,2024-05-24,Gran Plaza,Mendoza,Argentina,doble,2,8.0,105.05,840.4,booking
+RES01089,2025-06-20,2025-09-02,2025-09-12,Mirador Resort,Mendoza,Argentina,doble,3,10.0,119.38,1193.8,telefono
+RES01091,2025-03-06,2025-03-26,2025-04-05,Costa Azul,Mendoza,Argentina,doble,3,10.0,105.05,1050.5,booking
+RES01092,2024-11-24,2025-01-21,2025-01-22,Gran Plaza,Mendoza,Argentina,suite,4,1.0,225.0,225.0,booking
+RES01093,2024-12-20,2025-01-26,2025-01-31,Costa Azul,Mendoza,Argentina,simple,4,5.0,75.0,375.0,agencia
+RES01097,2024-02-19,2024-03-03,2024-03-09,Gran Plaza,Salta,Argentina,suite,3,6.0,198.0,1188.0,booking
+RES01098,2025-01-15,2025-02-15,2025-02-25,Gran Plaza,Mendoza,Argentina,doble,4,10.0,95.5,955.0,web_propia
+RES01099,2024-09-20,2024-10-01,2024-10-11,Posada del Sol,Salta,Argentina,suite,1,10.0,198.0,1980.0,booking
+RES01103,2025-08-13,2025-09-07,2025-09-14,Posada del Sol,Florianopolis,Brasil,doble,4,7.0,105.05,735.35,agencia
+RES01108,2025-03-31,2025-04-08,2025-04-14,Gran Plaza,Cusco,Peru,doble,4,6.0,95.5,573.0,agencia
+RES01109,2024-07-12,2024-08-01,2024-08-04,Gran Plaza,Mendoza,Argentina,simple,1,3.0,66.0,198.0,web_propia
+RES01110,2024-12-13,2025-01-20,2025-01-21,Mirador Resort,Mendoza,Argentina,simple,3,1.0,60.0,60.0,agencia
+RES01111,2025-01-09,2025-03-29,2025-04-05,Mirador Resort,Mendoza,Argentina,doble,3,7.0,105.05,735.35,agencia
+RES01115,2024-08-25,2024-10-15,2024-10-24,Costa Azul,Punta del Este,Uruguay,suite,2,9.0,225.0,2025.0,telefono
+RES01117,2025-03-02,2025-04-11,2025-04-15,Posada del Sol,Florianopolis,Brasil,simple,4,4.0,75.0,300.0,web_propia
+RES01118,2023-12-26,2024-03-13,2024-03-14,Mirador Resort,Punta del Este,Uruguay,suite,3,1.0,198.0,198.0,telefono
+RES01119,2024-02-11,2024-04-04,2024-04-13,Mirador Resort,Salta,Argentina,simple,1,9.0,75.0,675.0,web_propia
+RES01122,2024-01-28,2024-03-06,2024-03-14,Gran Plaza,Punta del Este,Uruguay,doble,4,8.0,105.05,840.4,web_propia
+RES01125,2025-04-11,2025-05-08,2025-05-14,Gran Plaza,Salta,Argentina,doble,1,6.0,95.5,573.0,telefono
+RES01129,2024-03-25,2024-06-05,2024-06-10,Hotel Andino,Punta del Este,Uruguay,simple,1,5.0,75.0,375.0,booking
+RES01130,2025-02-28,2025-05-23,2025-05-28,Costa Azul,Mendoza,Argentina,suite,3,5.0,225.0,1125.0,agencia
+RES01131,2025-09-22,2025-10-11,2025-10-19,Costa Azul,Florianopolis,Brasil,doble,3,8.0,119.38,955.04,telefono
+RES01132,2024-02-19,2024-03-02,2024-03-08,Costa Azul,Salta,Argentina,simple,3,6.0,75.0,450.0,agencia
+RES01133,2024-02-09,2024-04-01,2024-04-08,Mirador Resort,Punta del Este,Uruguay,simple,4,7.0,66.0,462.0,telefono
+RES01134,2025-09-22,2025-10-15,2025-10-21,Hotel Andino,Cusco,Peru,doble,3,6.0,105.05,630.3,web_propia
+RES01135,2024-06-02,2024-08-21,2024-08-30,Mirador Resort,Salta,Argentina,simple,2,9.0,60.0,540.0,web_propia
+RES01136,2024-03-01,2024-04-29,2024-05-04,Hotel Andino,Punta del Este,Uruguay,suite,3,5.0,180.0,900.0,web_propia
+RES01137,2024-06-15,2024-07-15,2024-07-17,Hotel Andino,Mendoza,Argentina,suite,3,2.0,198.0,396.0,agencia
+RES01139,2025-07-21,2025-09-16,2025-09-17,Gran Plaza,Bariloche,Argentina,doble,4,1.0,105.05,105.05,telefono
+RES01142,2025-04-17,2025-07-14,2025-07-21,Hotel Andino,Punta del Este,Uruguay,simple,3,7.0,66.0,462.0,booking
+RES01144,2025-07-06,2025-07-19,2025-07-28,Gran Plaza,Cusco,Peru,doble,4,9.0,95.5,859.5,agencia
+RES01146,2024-04-27,2024-05-24,2024-05-27,Costa Azul,Mendoza,Argentina,simple,3,3.0,75.0,225.0,agencia
+RES01149,2023-12-12,2024-02-21,2024-02-27,Hotel Andino,Bariloche,Argentina,suite,1,6.0,180.0,1080.0,agencia
+RES01153,2025-06-11,2025-07-12,2025-07-17,Gran Plaza,Punta del Este,Uruguay,simple,4,5.0,66.0,330.0,web_propia
+RES01155,2024-09-01,2024-10-20,2024-10-23,Gran Plaza,Florianopolis,Brasil,simple,4,3.0,66.0,198.0,telefono
+RES01157,2024-12-23,2024-12-28,2025-01-06,Costa Azul,Cartagena,Colombia,suite,4,9.0,225.0,2025.0,agencia
+RES01158,2024-05-13,2024-05-28,2024-06-07,Posada del Sol,Bariloche,Argentina,simple,4,10.0,66.0,660.0,telefono
+RES01159,2025-08-25,2025-10-03,2025-10-11,Costa Azul,Cartagena,Colombia,suite,1,8.0,198.0,1584.0,telefono
+RES01161,2024-01-14,2024-03-19,2024-03-28,Hotel Andino,Punta del Este,Uruguay,doble,4,9.0,119.38,1074.42,telefono
+RES01162,2024-11-25,2025-02-05,2025-02-07,Costa Azul,Salta,Argentina,simple,3,2.0,75.0,150.0,booking
+RES01163,2024-01-11,2024-02-27,2024-03-04,Costa Azul,Punta del Este,Uruguay,simple,1,6.0,75.0,450.0,web_propia
+RES01166,2024-09-10,2024-09-17,2024-09-27,Hotel Andino,Punta del Este,Uruguay,simple,4,10.0,60.0,600.0,web_propia
+RES01169,2025-10-31,2025-11-08,2025-11-10,Posada del Sol,Cartagena,Colombia,simple,3,2.0,60.0,120.0,booking
+RES01170,2024-01-02,2024-02-17,2024-02-18,Posada del Sol,Mendoza,Argentina,doble,3,1.0,95.5,95.5,web_propia
+RES01171,2024-12-17,2025-02-19,2025-03-01,Costa Azul,Punta del Este,Uruguay,suite,1,10.0,180.0,1800.0,web_propia
+RES01174,2024-06-28,2024-08-13,2024-08-22,Posada del Sol,Cartagena,Colombia,simple,2,9.0,60.0,540.0,telefono
+RES01176,2025-04-07,2025-04-27,2025-05-05,Gran Plaza,Salta,Argentina,doble,3,8.0,95.5,764.0,web_propia
+RES01179,2024-07-03,2024-07-15,2024-07-17,Mirador Resort,Bariloche,Argentina,simple,1,2.0,75.0,150.0,agencia
+RES01181,2024-01-13,2024-04-03,2024-04-09,Hotel Andino,Punta del Este,Uruguay,suite,2,6.0,198.0,1188.0,telefono
+RES01182,2025-11-25,2025-12-28,2026-01-01,Hotel Andino,Cusco,Peru,doble,1,4.0,105.05,420.2,web_propia
+RES01185,2024-02-01,2024-03-23,2024-03-31,Costa Azul,Cartagena,Colombia,suite,4,8.0,180.0,1440.0,web_propia
+RES01190,2023-12-06,2024-02-23,2024-03-03,Gran Plaza,Punta del Este,Uruguay,simple,4,9.0,66.0,594.0,booking
+RES01192,2024-06-12,2024-07-13,2024-07-21,Costa Azul,Cusco,Peru,doble,1,8.0,119.38,955.04,booking
+RES01195,2025-08-11,2025-09-19,2025-09-21,Posada del Sol,Punta del Este,Uruguay,doble,2,2.0,119.38,238.76,agencia
+RES01196,2024-08-12,2024-11-10,2024-11-20,Mirador Resort,Bariloche,Argentina,suite,4,10.0,225.0,2250.0,agencia
+RES01197,2024-12-18,2024-12-23,2024-12-27,Gran Plaza,Salta,Argentina,doble,2,4.0,105.05,420.2,agencia
+RES01239,2024-06-27,2024-09-13,2024-09-19,Posada del Sol,Salta,Argentina,suite,2,6.0,198.0,1188.0,web_propia
+RES01199,2025-03-04,2025-04-02,2025-04-09,Posada del Sol,Florianopolis,Brasil,suite,1,7.0,198.0,1386.0,agencia
+RES01201,2023-11-15,2024-01-30,2024-02-09,Costa Azul,Punta del Este,Uruguay,doble,2,10.0,95.5,955.0,booking
+RES01203,2024-01-23,2024-03-19,2024-03-28,Hotel Andino,Punta del Este,Uruguay,doble,2,9.0,105.05,945.45,web_propia
+RES01205,2024-01-13,2024-03-17,2024-03-26,Mirador Resort,Punta del Este,Uruguay,doble,1,9.0,95.5,859.5,telefono
+RES01209,2024-01-27,2024-04-24,2024-04-28,Costa Azul,Cartagena,Colombia,simple,4,4.0,75.0,300.0,web_propia
+RES01212,2025-06-21,2025-07-04,2025-07-09,Posada del Sol,Cusco,Peru,simple,3,5.0,66.0,330.0,web_propia
+RES01214,2024-08-29,2024-10-21,2024-10-26,Mirador Resort,Florianopolis,Brasil,simple,4,5.0,60.0,300.0,telefono
+RES01216,2023-11-14,2024-01-09,2024-01-14,Hotel Andino,Cartagena,Colombia,simple,4,5.0,60.0,300.0,telefono
+RES01217,2025-10-05,2025-12-13,2025-12-15,Gran Plaza,Florianopolis,Brasil,doble,2,2.0,105.05,210.1,booking
+RES01218,2025-11-26,2025-12-08,2025-12-18,Hotel Andino,Cartagena,Colombia,suite,3,10.0,225.0,2250.0,agencia
+RES01219,2025-01-06,2025-01-23,2025-02-02,Costa Azul,Bariloche,Argentina,doble,1,10.0,119.38,1193.8,booking
+RES01221,2025-08-25,2025-10-27,2025-11-05,Gran Plaza,Cartagena,Colombia,suite,4,9.0,180.0,1620.0,telefono
+RES01223,2024-11-16,2024-11-24,2024-11-28,Hotel Andino,Florianopolis,Brasil,doble,1,4.0,105.05,420.2,booking
+RES01224,2023-12-08,2024-01-25,2024-01-26,Mirador Resort,Bariloche,Argentina,suite,4,1.0,180.0,180.0,booking
+RES01225,2024-01-22,2024-04-01,2024-04-06,Costa Azul,Punta del Este,Uruguay,simple,4,5.0,60.0,300.0,agencia
+RES01227,2024-12-25,2025-03-06,2025-03-09,Gran Plaza,Cartagena,Colombia,simple,1,3.0,60.0,180.0,telefono
+RES01231,2024-10-07,2024-12-31,2025-01-05,Posada del Sol,Cusco,Peru,suite,1,5.0,180.0,900.0,telefono
+RES01233,2024-06-01,2024-07-18,2024-07-27,Hotel Andino,Mendoza,Argentina,doble,3,9.0,119.38,1074.42,telefono
+RES01238,2024-07-31,2024-09-23,2024-10-01,Posada del Sol,Punta del Este,Uruguay,doble,4,8.0,105.05,840.4,telefono
+RES01241,2024-10-22,2024-12-31,2025-01-03,Costa Azul,Punta del Este,Uruguay,simple,2,3.0,75.0,225.0,telefono
+RES01242,2024-08-23,2024-11-19,2024-11-25,Mirador Resort,Cartagena,Colombia,simple,2,6.0,75.0,450.0,agencia
+RES01243,2025-11-25,2025-12-17,2025-12-19,Hotel Andino,Florianopolis,Brasil,suite,3,2.0,198.0,396.0,web_propia
+RES01244,2023-12-09,2024-02-12,2024-02-22,Costa Azul,Bariloche,Argentina,doble,3,10.0,95.5,955.0,web_propia
+RES01247,2023-12-21,2024-01-11,2024-01-12,Costa Azul,Florianopolis,Brasil,simple,1,1.0,66.0,66.0,agencia
+RES01248,2025-02-24,2025-04-08,2025-04-10,Gran Plaza,Florianopolis,Brasil,simple,2,2.0,60.0,120.0,agencia
+RES01249,2025-10-02,2025-12-25,2026-01-04,Hotel Andino,Bariloche,Argentina,suite,1,10.0,225.0,2250.0,telefono
+RES01252,2025-04-22,2025-05-02,2025-05-07,Mirador Resort,Punta del Este,Uruguay,simple,3,5.0,75.0,375.0,web_propia
+RES01255,2024-06-09,2024-07-02,2024-07-05,Costa Azul,Florianopolis,Brasil,suite,3,3.0,225.0,675.0,booking
+RES01256,2023-12-26,2024-02-24,2024-02-27,Gran Plaza,Cusco,Peru,simple,3,3.0,66.0,198.0,web_propia
+RES01258,2024-03-02,2024-03-22,2024-03-24,Posada del Sol,Bariloche,Argentina,simple,4,2.0,66.0,132.0,agencia
+RES01259,2024-11-05,2024-11-28,2024-12-01,Gran Plaza,Cusco,Peru,suite,4,3.0,225.0,675.0,telefono
+RES01260,2024-12-26,2025-02-27,2025-03-07,Gran Plaza,Punta del Este,Uruguay,doble,1,8.0,119.38,955.04,telefono
+RES01261,2025-05-27,2025-06-26,2025-07-02,Hotel Andino,Cartagena,Colombia,suite,3,6.0,198.0,1188.0,booking
+RES01262,2025-04-10,2025-06-05,2025-06-10,Hotel Andino,Cartagena,Colombia,doble,3,5.0,105.05,525.25,web_propia
+RES01263,2025-05-12,2025-07-16,2025-07-25,Costa Azul,Punta del Este,Uruguay,doble,1,9.0,95.5,859.5,booking
+RES01265,2024-11-07,2024-11-24,2024-12-04,Posada del Sol,Florianopolis,Brasil,simple,1,10.0,60.0,600.0,telefono
+RES01266,2025-04-15,2025-05-07,2025-05-09,Mirador Resort,Bariloche,Argentina,doble,2,2.0,105.05,210.1,booking
+RES01267,2024-11-08,2024-11-15,2024-11-19,Gran Plaza,Cartagena,Colombia,simple,4,4.0,75.0,300.0,telefono
+RES01268,2024-11-06,2025-01-22,2025-01-29,Posada del Sol,Salta,Argentina,simple,1,7.0,75.0,525.0,web_propia
+RES01269,2024-02-17,2024-04-01,2024-04-05,Mirador Resort,Cusco,Peru,suite,1,4.0,198.0,792.0,booking
+RES01273,2024-02-11,2024-03-07,2024-03-16,Costa Azul,Mendoza,Argentina,suite,3,9.0,198.0,1782.0,telefono
+RES01277,2024-04-20,2024-07-09,2024-07-15,Posada del Sol,Florianopolis,Brasil,simple,3,6.0,60.0,360.0,agencia
+RES01278,2024-03-19,2024-06-09,2024-06-10,Gran Plaza,Florianopolis,Brasil,doble,3,1.0,95.5,95.5,telefono
+RES01281,2025-03-12,2025-03-28,2025-03-31,Gran Plaza,Cusco,Peru,doble,4,3.0,119.38,358.14,telefono
+RES01283,2024-02-29,2024-05-17,2024-05-18,Costa Azul,Florianopolis,Brasil,simple,4,1.0,66.0,66.0,booking
+RES01284,2023-12-30,2024-03-01,2024-03-08,Costa Azul,Bariloche,Argentina,simple,1,7.0,60.0,420.0,agencia
+RES01285,2024-10-14,2024-12-30,2025-01-09,Posada del Sol,Florianopolis,Brasil,doble,1,10.0,119.38,1193.8,booking
+RES01287,2024-05-18,2024-08-09,2024-08-17,Costa Azul,Florianopolis,Brasil,doble,4,8.0,105.05,840.4,booking
+RES01288,2025-05-19,2025-06-15,2025-06-19,Hotel Andino,Salta,Argentina,suite,2,4.0,180.0,720.0,telefono
+RES01290,2024-01-16,2024-02-26,2024-02-27,Posada del Sol,Florianopolis,Brasil,doble,4,1.0,119.38,119.38,booking
+RES01291,2024-05-08,2024-05-23,2024-05-25,Posada del Sol,Punta del Este,Uruguay,doble,1,2.0,95.5,191.0,booking
+RES01296,2023-11-28,2024-02-22,2024-02-25,Gran Plaza,Bariloche,Argentina,suite,2,3.0,225.0,675.0,web_propia
+RES01297,2024-05-17,2024-06-28,2024-07-03,Hotel Andino,Bariloche,Argentina,doble,3,5.0,105.05,525.25,booking
+RES02215,2024-06-07,2024-07-26,2024-07-30,Mirador Resort,Mendoza,Argentina,suite,2,4.0,225.0,900.0,web_propia
+RES01300,2025-01-11,2025-01-17,2025-01-18,Mirador Resort,Cusco,Peru,doble,4,1.0,95.5,95.5,agencia
+RES01301,2024-12-31,2025-02-27,2025-02-28,Hotel Andino,Salta,Argentina,simple,3,1.0,60.0,60.0,telefono
+RES01302,2025-11-11,2025-12-27,2025-12-28,Costa Azul,Punta del Este,Uruguay,suite,1,1.0,225.0,225.0,telefono
+RES01306,2024-02-11,2024-03-06,2024-03-07,Costa Azul,Florianopolis,Brasil,suite,3,1.0,180.0,180.0,agencia
+RES01308,2025-09-17,2025-12-03,2025-12-06,Costa Azul,Florianopolis,Brasil,suite,4,3.0,198.0,594.0,telefono
+RES01310,2024-06-19,2024-07-01,2024-07-10,Mirador Resort,Salta,Argentina,simple,3,9.0,60.0,540.0,web_propia
+RES01314,2025-08-10,2025-08-17,2025-08-20,Posada del Sol,Bariloche,Argentina,suite,1,3.0,180.0,540.0,booking
+RES01316,2024-12-01,2024-12-09,2024-12-15,Mirador Resort,Salta,Argentina,doble,2,6.0,119.38,716.28,telefono
+RES01317,2023-12-18,2024-01-03,2024-01-06,Gran Plaza,Cusco,Peru,simple,3,3.0,75.0,225.0,telefono
+RES01320,2024-10-08,2024-12-14,2024-12-20,Mirador Resort,Bariloche,Argentina,simple,3,6.0,60.0,360.0,booking
+RES01321,2025-03-12,2025-05-20,2025-05-22,Gran Plaza,Punta del Este,Uruguay,simple,4,2.0,75.0,150.0,web_propia
+RES01324,2025-01-19,2025-02-21,2025-03-03,Mirador Resort,Cartagena,Colombia,simple,2,10.0,75.0,750.0,agencia
+RES01325,2025-10-26,2025-12-18,2025-12-24,Mirador Resort,Bariloche,Argentina,doble,4,6.0,119.38,716.28,agencia
+RES01328,2024-08-10,2024-09-13,2024-09-15,Gran Plaza,Salta,Argentina,doble,2,2.0,119.38,238.76,agencia
+RES01329,2024-03-09,2024-06-04,2024-06-09,Mirador Resort,Bariloche,Argentina,simple,4,5.0,60.0,300.0,booking
+RES01332,2025-08-26,2025-11-23,2025-12-02,Costa Azul,Mendoza,Argentina,suite,4,9.0,180.0,1620.0,booking
+RES01334,2025-12-01,2025-12-25,2025-12-30,Costa Azul,Mendoza,Argentina,simple,3,5.0,66.0,330.0,agencia
+RES01339,2025-06-25,2025-07-14,2025-07-22,Hotel Andino,Bariloche,Argentina,suite,1,8.0,225.0,1800.0,web_propia
+RES02059,2025-11-10,2025-11-25,2025-11-29,Mirador Resort,Cusco,Peru,doble,4,4.0,119.38,477.52,telefono
+RES01341,2025-03-12,2025-03-24,2025-04-02,Hotel Andino,Cusco,Peru,simple,1,9.0,75.0,675.0,web_propia
+RES01342,2025-07-18,2025-09-17,2025-09-20,Posada del Sol,Florianopolis,Brasil,doble,1,3.0,119.38,358.14,web_propia
+RES01343,2025-09-30,2025-11-16,2025-11-17,Mirador Resort,Cusco,Peru,simple,1,1.0,75.0,75.0,booking
+RES01348,2024-10-15,2024-12-23,2024-12-26,Posada del Sol,Salta,Argentina,suite,3,3.0,180.0,540.0,booking
+RES01352,2024-11-04,2025-01-28,2025-02-05,Costa Azul,Cusco,Peru,suite,2,8.0,180.0,1440.0,web_propia
+RES01353,2024-01-12,2024-01-27,2024-02-06,Posada del Sol,Salta,Argentina,doble,4,10.0,105.05,1050.5,booking
+RES01354,2024-07-22,2024-08-11,2024-08-17,Costa Azul,Mendoza,Argentina,suite,4,6.0,180.0,1080.0,telefono
+RES01355,2025-01-23,2025-03-16,2025-03-25,Costa Azul,Bariloche,Argentina,simple,3,9.0,66.0,594.0,web_propia
+RES01356,2023-12-16,2024-01-09,2024-01-17,Hotel Andino,Bariloche,Argentina,simple,4,8.0,60.0,480.0,agencia
+RES01357,2024-12-03,2024-12-30,2025-01-09,Gran Plaza,Salta,Argentina,simple,2,10.0,75.0,750.0,web_propia
+RES01360,2024-04-17,2024-06-10,2024-06-15,Hotel Andino,Bariloche,Argentina,simple,2,5.0,75.0,375.0,agencia
+RES01361,2024-11-15,2025-01-11,2025-01-14,Gran Plaza,Mendoza,Argentina,suite,1,3.0,180.0,540.0,telefono
+RES01362,2024-01-23,2024-02-19,2024-02-26,Posada del Sol,Florianopolis,Brasil,simple,2,7.0,75.0,525.0,booking
+RES01363,2025-05-25,2025-07-06,2025-07-08,Posada del Sol,Florianopolis,Brasil,suite,3,2.0,225.0,450.0,web_propia
+RES01365,2024-05-27,2024-08-20,2024-08-27,Posada del Sol,Cartagena,Colombia,simple,4,7.0,75.0,525.0,agencia
+RES01368,2024-10-26,2025-01-21,2025-01-24,Gran Plaza,Cartagena,Colombia,suite,4,3.0,198.0,594.0,agencia
+RES01369,2025-08-24,2025-10-12,2025-10-18,Costa Azul,Salta,Argentina,doble,3,6.0,119.38,716.28,agencia
+RES01372,2025-08-01,2025-08-18,2025-08-25,Posada del Sol,Florianopolis,Brasil,doble,4,7.0,95.5,668.5,telefono
+RES01373,2024-06-22,2024-08-25,2024-08-31,Costa Azul,Florianopolis,Brasil,suite,2,6.0,225.0,1350.0,web_propia
+RES01374,2024-02-04,2024-03-14,2024-03-23,Costa Azul,Cusco,Peru,doble,4,9.0,105.05,945.45,booking
+RES01375,2024-10-12,2024-12-14,2024-12-15,Posada del Sol,Mendoza,Argentina,simple,2,1.0,66.0,66.0,telefono
+RES01376,2025-11-21,2025-12-24,2025-12-30,Gran Plaza,Cusco,Peru,simple,2,6.0,66.0,396.0,agencia
+RES01377,2024-11-22,2025-02-02,2025-02-11,Mirador Resort,Mendoza,Argentina,doble,4,9.0,95.5,859.5,web_propia
+RES01378,2025-02-22,2025-02-27,2025-03-07,Posada del Sol,Bariloche,Argentina,simple,1,8.0,66.0,528.0,telefono
+RES01384,2024-04-07,2024-05-18,2024-05-22,Mirador Resort,Salta,Argentina,simple,2,4.0,60.0,240.0,web_propia
+RES01385,2024-06-11,2024-08-08,2024-08-12,Posada del Sol,Florianopolis,Brasil,suite,2,4.0,198.0,792.0,web_propia
+RES01386,2025-08-14,2025-08-25,2025-09-02,Mirador Resort,Cartagena,Colombia,simple,4,8.0,75.0,600.0,agencia
+RES01388,2023-12-12,2024-01-22,2024-01-29,Gran Plaza,Punta del Este,Uruguay,simple,2,7.0,66.0,462.0,telefono
+RES01390,2025-05-26,2025-06-22,2025-06-25,Gran Plaza,Mendoza,Argentina,simple,1,3.0,66.0,198.0,booking
+RES01391,2023-11-05,2024-01-13,2024-01-20,Hotel Andino,Bariloche,Argentina,doble,4,7.0,95.5,668.5,telefono
+RES01392,2023-11-29,2024-02-19,2024-02-23,Mirador Resort,Florianopolis,Brasil,doble,3,4.0,105.05,420.2,telefono
+RES01393,2025-09-20,2025-12-09,2025-12-19,Hotel Andino,Cusco,Peru,doble,1,10.0,95.5,955.0,booking
+RES01395,2025-03-06,2025-03-17,2025-03-20,Posada del Sol,Bariloche,Argentina,simple,1,3.0,60.0,180.0,agencia
+RES01396,2024-12-11,2025-01-23,2025-01-25,Posada del Sol,Cartagena,Colombia,doble,1,2.0,119.38,238.76,telefono
+RES01400,2025-04-14,2025-06-03,2025-06-05,Mirador Resort,Cusco,Peru,simple,1,2.0,75.0,150.0,agencia
+RES01402,2024-05-16,2024-07-14,2024-07-16,Posada del Sol,Bariloche,Argentina,simple,3,2.0,60.0,120.0,web_propia
+RES01408,2025-05-23,2025-06-16,2025-06-19,Gran Plaza,Salta,Argentina,simple,4,3.0,75.0,225.0,web_propia
+RES01410,2024-07-07,2024-08-25,2024-08-30,Hotel Andino,Florianopolis,Brasil,simple,1,5.0,60.0,300.0,booking
+RES01411,2024-12-27,2025-01-07,2025-01-12,Mirador Resort,Cusco,Peru,doble,4,5.0,105.05,525.25,web_propia
+RES01412,2024-12-26,2025-01-19,2025-01-29,Posada del Sol,Mendoza,Argentina,simple,1,10.0,75.0,750.0,web_propia
+RES01414,2025-04-11,2025-04-27,2025-04-30,Hotel Andino,Salta,Argentina,suite,4,3.0,180.0,540.0,booking
+RES01415,2024-10-04,2024-11-04,2024-11-08,Gran Plaza,Cartagena,Colombia,suite,3,4.0,225.0,900.0,agencia
+RES01420,2025-10-30,2025-11-12,2025-11-16,Mirador Resort,Mendoza,Argentina,simple,4,4.0,60.0,240.0,telefono
+RES01422,2024-09-30,2024-10-19,2024-10-22,Gran Plaza,Mendoza,Argentina,simple,2,3.0,60.0,180.0,agencia
+RES01425,2023-11-15,2024-01-24,2024-01-25,Hotel Andino,Punta del Este,Uruguay,doble,1,1.0,105.05,105.05,web_propia
+RES01427,2025-09-20,2025-12-13,2025-12-21,Mirador Resort,Punta del Este,Uruguay,simple,3,8.0,66.0,528.0,booking
+RES01428,2023-12-26,2024-01-14,2024-01-22,Hotel Andino,Florianopolis,Brasil,simple,1,8.0,66.0,528.0,booking
+RES01429,2025-05-04,2025-06-20,2025-06-26,Posada del Sol,Cusco,Peru,suite,1,6.0,225.0,1350.0,agencia
+RES01430,2025-04-05,2025-06-05,2025-06-15,Posada del Sol,Florianopolis,Brasil,doble,1,10.0,119.38,1193.8,booking
+RES01433,2024-04-03,2024-06-16,2024-06-22,Gran Plaza,Florianopolis,Brasil,doble,4,6.0,95.5,573.0,telefono
+RES01434,2024-08-27,2024-09-26,2024-09-28,Gran Plaza,Cartagena,Colombia,suite,2,2.0,198.0,396.0,web_propia
+RES01441,2024-10-30,2025-01-03,2025-01-09,Gran Plaza,Salta,Argentina,doble,2,6.0,105.05,630.3,agencia
+RES01443,2024-11-19,2025-01-13,2025-01-14,Gran Plaza,Bariloche,Argentina,simple,1,1.0,66.0,66.0,telefono
+RES01444,2025-10-07,2025-12-09,2025-12-14,Gran Plaza,Mendoza,Argentina,doble,3,5.0,105.05,525.25,web_propia
+RES01445,2024-03-25,2024-06-20,2024-06-26,Hotel Andino,Cusco,Peru,doble,3,6.0,95.5,573.0,agencia
+RES01446,2024-11-30,2024-12-29,2024-12-30,Posada del Sol,Cartagena,Colombia,doble,4,1.0,119.38,119.38,telefono
+RES01449,2024-06-29,2024-09-10,2024-09-15,Hotel Andino,Cartagena,Colombia,suite,3,5.0,180.0,900.0,telefono
+RES01450,2025-02-09,2025-03-31,2025-04-07,Costa Azul,Salta,Argentina,doble,1,7.0,119.38,835.66,booking
+RES01451,2025-07-02,2025-09-22,2025-09-25,Posada del Sol,Florianopolis,Brasil,simple,2,3.0,75.0,225.0,agencia
+RES01452,2025-08-16,2025-11-13,2025-11-22,Gran Plaza,Salta,Argentina,doble,1,9.0,119.38,1074.42,agencia
+RES01453,2025-05-03,2025-07-08,2025-07-11,Gran Plaza,Cartagena,Colombia,simple,4,3.0,75.0,225.0,web_propia
+RES01454,2025-03-06,2025-04-03,2025-04-08,Gran Plaza,Cusco,Peru,suite,4,5.0,225.0,1125.0,agencia
+RES01456,2025-03-03,2025-05-21,2025-05-27,Mirador Resort,Bariloche,Argentina,simple,3,6.0,75.0,450.0,telefono
+RES01459,2024-08-04,2024-10-20,2024-10-26,Gran Plaza,Salta,Argentina,simple,4,6.0,66.0,396.0,web_propia
+RES01461,2024-02-10,2024-02-15,2024-02-23,Posada del Sol,Florianopolis,Brasil,simple,4,8.0,60.0,480.0,booking
+RES01463,2024-08-08,2024-09-09,2024-09-13,Posada del Sol,Cusco,Peru,simple,2,4.0,66.0,264.0,agencia
+RES01464,2025-07-23,2025-10-04,2025-10-14,Gran Plaza,Bariloche,Argentina,doble,3,10.0,119.38,1193.8,telefono
+RES01470,2025-04-05,2025-04-24,2025-05-04,Mirador Resort,Salta,Argentina,doble,2,10.0,105.05,1050.5,web_propia
+RES01471,2025-06-13,2025-06-29,2025-07-09,Hotel Andino,Cartagena,Colombia,suite,3,10.0,198.0,1980.0,booking
+RES01474,2024-09-28,2024-11-09,2024-11-15,Posada del Sol,Punta del Este,Uruguay,simple,1,6.0,60.0,360.0,booking
+RES01476,2025-02-22,2025-05-01,2025-05-05,Posada del Sol,Punta del Este,Uruguay,simple,1,4.0,66.0,264.0,booking
+RES01477,2025-09-12,2025-10-03,2025-10-10,Hotel Andino,Salta,Argentina,simple,1,7.0,75.0,525.0,agencia
+RES01479,2025-02-06,2025-02-27,2025-03-01,Mirador Resort,Salta,Argentina,doble,4,2.0,95.5,191.0,agencia
+RES01480,2025-06-23,2025-08-31,2025-09-04,Costa Azul,Salta,Argentina,doble,2,4.0,105.05,420.2,agencia
+RES01481,2025-09-23,2025-10-05,2025-10-07,Costa Azul,Punta del Este,Uruguay,doble,2,2.0,95.5,191.0,telefono
+RES01482,2025-02-10,2025-03-22,2025-03-26,Gran Plaza,Punta del Este,Uruguay,doble,4,4.0,95.5,382.0,agencia
+RES01484,2024-08-21,2024-10-22,2024-10-26,Mirador Resort,Punta del Este,Uruguay,simple,2,4.0,60.0,240.0,telefono
+RES01485,2024-03-19,2024-04-12,2024-04-17,Hotel Andino,Mendoza,Argentina,doble,1,5.0,119.38,596.9,agencia
+RES01490,2025-11-14,2025-12-24,2026-01-03,Costa Azul,Mendoza,Argentina,suite,1,10.0,198.0,1980.0,web_propia
+RES01492,2024-02-17,2024-02-27,2024-02-28,Costa Azul,Salta,Argentina,simple,1,1.0,60.0,60.0,web_propia
+RES01493,2025-04-19,2025-04-25,2025-04-30,Costa Azul,Cartagena,Colombia,doble,4,5.0,119.38,596.9,booking
+RES01494,2025-10-26,2025-11-26,2025-12-02,Hotel Andino,Salta,Argentina,suite,3,6.0,198.0,1188.0,telefono
+RES01497,2025-08-01,2025-09-12,2025-09-18,Mirador Resort,Bariloche,Argentina,suite,1,6.0,225.0,1350.0,booking
+RES01502,2025-02-19,2025-02-26,2025-03-07,Hotel Andino,Bariloche,Argentina,doble,1,9.0,105.05,945.4499999999999,agencia
+RES01503,2024-12-07,2025-02-09,2025-02-18,Mirador Resort,Cartagena,Colombia,simple,1,9.0,75.0,675.0,web_propia
+RES01504,2025-02-19,2025-04-01,2025-04-02,Hotel Andino,Salta,Argentina,doble,2,1.0,105.05,105.05,agencia
+RES01505,2025-10-06,2025-10-12,2025-10-20,Mirador Resort,Mendoza,Argentina,doble,2,8.0,105.05,840.4,web_propia
+RES01508,2025-08-13,2025-11-06,2025-11-10,Gran Plaza,Bariloche,Argentina,simple,1,4.0,60.0,240.0,telefono
+RES01509,2025-06-13,2025-06-29,2025-07-06,Gran Plaza,Cartagena,Colombia,suite,2,7.0,180.0,1260.0,agencia
+RES01516,2024-07-06,2024-08-24,2024-08-30,Costa Azul,Punta del Este,Uruguay,doble,1,6.0,95.5,573.0,web_propia
+RES01518,2024-03-02,2024-03-08,2024-03-12,Posada del Sol,Florianopolis,Brasil,simple,3,4.0,75.0,300.0,web_propia
+RES01520,2024-10-30,2025-01-13,2025-01-22,Hotel Andino,Salta,Argentina,doble,2,9.0,105.05,945.45,telefono
+RES01526,2025-04-03,2025-04-27,2025-05-05,Costa Azul,Salta,Argentina,doble,2,8.0,105.05,840.4,web_propia
+RES01527,2024-10-30,2024-11-24,2024-12-01,Hotel Andino,Cusco,Peru,suite,3,7.0,180.0,1260.0,agencia
+RES01530,2023-11-21,2024-01-25,2024-01-28,Hotel Andino,Cusco,Peru,suite,4,3.0,225.0,675.0,web_propia
+RES01531,2024-08-25,2024-10-09,2024-10-17,Hotel Andino,Salta,Argentina,doble,1,8.0,119.38,955.04,booking
+RES01532,2024-07-03,2024-08-29,2024-09-03,Gran Plaza,Punta del Este,Uruguay,suite,4,5.0,180.0,900.0,booking
+RES01533,2024-03-01,2024-05-29,2024-06-03,Posada del Sol,Mendoza,Argentina,suite,3,5.0,180.0,900.0,web_propia
+RES01539,2024-11-09,2025-01-09,2025-01-12,Mirador Resort,Cartagena,Colombia,doble,1,3.0,105.05,315.15,telefono
+RES01544,2024-04-08,2024-06-24,2024-06-26,Posada del Sol,Punta del Este,Uruguay,simple,3,2.0,60.0,120.0,booking
+RES01545,2024-04-05,2024-04-19,2024-04-29,Posada del Sol,Bariloche,Argentina,suite,3,10.0,180.0,1800.0,booking
+RES01546,2025-01-28,2025-04-01,2025-04-05,Costa Azul,Bariloche,Argentina,doble,4,4.0,95.5,382.0,agencia
+RES01547,2025-10-22,2025-12-27,2026-01-02,Posada del Sol,Salta,Argentina,suite,1,6.0,180.0,1080.0,agencia
+RES01548,2024-09-17,2024-10-23,2024-10-29,Gran Plaza,Salta,Argentina,suite,1,6.0,225.0,1350.0,agencia
+RES01549,2025-04-24,2025-06-16,2025-06-19,Costa Azul,Cusco,Peru,doble,1,3.0,95.5,286.5,telefono
+RES01550,2024-01-11,2024-02-05,2024-02-10,Gran Plaza,Cartagena,Colombia,doble,1,5.0,105.05,525.25,booking
+RES01551,2023-12-07,2024-03-06,2024-03-15,Hotel Andino,Cusco,Peru,suite,2,9.0,198.0,1782.0,booking
+RES01552,2025-07-27,2025-08-12,2025-08-14,Hotel Andino,Salta,Argentina,doble,4,2.0,119.38,238.76,web_propia
+RES01553,2024-11-06,2024-11-28,2024-12-01,Gran Plaza,Florianopolis,Brasil,simple,4,3.0,75.0,225.0,agencia
+RES01555,2024-03-26,2024-06-24,2024-07-03,Posada del Sol,Punta del Este,Uruguay,suite,4,9.0,180.0,1620.0,telefono
+RES01557,2024-03-20,2024-06-08,2024-06-16,Costa Azul,Cusco,Peru,simple,2,8.0,66.0,528.0,agencia
+RES01558,2025-09-23,2025-11-09,2025-11-16,Hotel Andino,Salta,Argentina,doble,2,7.0,119.38,835.66,telefono
+RES01559,2024-01-30,2024-03-01,2024-03-10,Posada del Sol,Florianopolis,Brasil,doble,4,9.0,95.5,859.5,web_propia
+RES01560,2024-11-21,2025-01-09,2025-01-12,Mirador Resort,Bariloche,Argentina,doble,1,3.0,119.38,358.14,booking
+RES01562,2025-04-29,2025-05-12,2025-05-13,Costa Azul,Salta,Argentina,suite,1,1.0,225.0,225.0,web_propia
+RES01563,2025-08-26,2025-10-03,2025-10-13,Gran Plaza,Mendoza,Argentina,simple,3,10.0,60.0,600.0,agencia
+RES01567,2024-07-07,2024-09-03,2024-09-12,Hotel Andino,Mendoza,Argentina,simple,3,9.0,66.0,594.0,web_propia
+RES01568,2025-11-04,2025-11-28,2025-12-02,Posada del Sol,Mendoza,Argentina,simple,3,4.0,66.0,264.0,booking
+RES01570,2024-04-28,2024-06-19,2024-06-28,Mirador Resort,Cusco,Peru,doble,3,9.0,95.5,859.5,agencia
+RES01573,2025-11-05,2025-12-08,2025-12-17,Costa Azul,Salta,Argentina,suite,1,9.0,180.0,1620.0,telefono
+RES01577,2024-04-06,2024-04-24,2024-04-29,Posada del Sol,Mendoza,Argentina,suite,3,5.0,180.0,900.0,telefono
+RES01581,2024-09-13,2024-12-10,2024-12-20,Gran Plaza,Cartagena,Colombia,suite,3,10.0,180.0,1800.0,booking
+RES01585,2025-01-29,2025-03-22,2025-03-29,Posada del Sol,Cartagena,Colombia,suite,1,7.0,225.0,1575.0,telefono
+RES01592,2025-03-03,2025-04-07,2025-04-17,Costa Azul,Cartagena,Colombia,doble,1,10.0,119.38,1193.8,telefono
+RES01593,2024-09-21,2024-10-05,2024-10-08,Posada del Sol,Cusco,Peru,suite,2,3.0,225.0,675.0,booking
+RES01594,2025-04-07,2025-05-20,2025-05-28,Mirador Resort,Cusco,Peru,suite,2,8.0,198.0,1584.0,booking
+RES01595,2025-11-24,2025-12-07,2025-12-11,Mirador Resort,Salta,Argentina,simple,2,4.0,60.0,240.0,telefono
+RES01596,2024-02-07,2024-04-26,2024-04-27,Posada del Sol,Cusco,Peru,simple,3,1.0,66.0,66.0,booking
+RES01598,2025-11-12,2025-12-27,2026-01-01,Mirador Resort,Punta del Este,Uruguay,suite,4,5.0,198.0,990.0,booking
+RES01599,2025-05-25,2025-06-02,2025-06-10,Hotel Andino,Cartagena,Colombia,simple,3,8.0,75.0,600.0,web_propia
+RES02182,2023-11-09,2024-01-25,2024-02-02,Mirador Resort,Salta,Argentina,doble,3,8.0,119.38,955.04,agencia
+RES01603,2024-05-26,2024-08-09,2024-08-13,Costa Azul,Cusco,Peru,doble,2,4.0,105.05,420.2,web_propia
+RES01606,2023-12-14,2024-01-26,2024-02-05,Hotel Andino,Mendoza,Argentina,simple,2,10.0,66.0,660.0,agencia
+RES01607,2024-11-24,2024-12-14,2024-12-23,Mirador Resort,Punta del Este,Uruguay,doble,2,9.0,119.38,1074.42,telefono
+RES01608,2024-11-10,2025-01-02,2025-01-12,Gran Plaza,Punta del Este,Uruguay,doble,1,10.0,95.5,955.0,agencia
+RES01609,2025-07-01,2025-09-18,2025-09-20,Mirador Resort,Florianopolis,Brasil,suite,1,2.0,225.0,450.0,web_propia
+RES02419,2024-05-14,2024-05-20,2024-05-24,Costa Azul,Bariloche,Argentina,simple,4,4.0,60.0,240.0,telefono
+RES01613,2025-08-05,2025-09-05,2025-09-12,Costa Azul,Bariloche,Argentina,doble,4,7.0,105.05,735.35,telefono
+RES01614,2024-04-21,2024-05-01,2024-05-03,Hotel Andino,Cusco,Peru,simple,4,2.0,75.0,150.0,booking
+RES01616,2025-04-03,2025-06-03,2025-06-10,Gran Plaza,Mendoza,Argentina,doble,4,7.0,119.38,835.66,booking
+RES01617,2024-05-23,2024-06-26,2024-06-30,Gran Plaza,Cusco,Peru,suite,2,4.0,198.0,792.0,telefono
+RES01621,2025-06-07,2025-08-15,2025-08-19,Hotel Andino,Cartagena,Colombia,doble,2,4.0,119.38,477.52,agencia
+RES01622,2023-12-06,2024-01-20,2024-01-22,Costa Azul,Mendoza,Argentina,suite,1,2.0,225.0,450.0,telefono
+RES01623,2025-03-04,2025-05-30,2025-06-08,Gran Plaza,Mendoza,Argentina,doble,4,9.0,119.38,1074.42,agencia
+RES01625,2025-01-03,2025-03-26,2025-03-31,Costa Azul,Bariloche,Argentina,doble,4,5.0,105.05,525.25,booking
+RES01626,2024-07-30,2024-10-26,2024-11-05,Mirador Resort,Florianopolis,Brasil,doble,1,10.0,95.5,955.0,web_propia
+RES01627,2024-03-03,2024-05-29,2024-06-07,Gran Plaza,Cusco,Peru,doble,4,9.0,105.05,945.45,telefono
+RES01629,2025-10-12,2025-11-29,2025-12-03,Hotel Andino,Cusco,Peru,suite,2,4.0,225.0,900.0,web_propia
+RES01631,2023-12-05,2024-01-14,2024-01-18,Mirador Resort,Florianopolis,Brasil,doble,4,4.0,95.5,382.0,booking
+RES01632,2025-11-22,2025-12-21,2025-12-29,Posada del Sol,Salta,Argentina,suite,1,8.0,198.0,1584.0,web_propia
+RES01636,2024-08-15,2024-11-10,2024-11-17,Costa Azul,Cartagena,Colombia,suite,4,7.0,198.0,1386.0,agencia
+RES01638,2025-07-04,2025-08-09,2025-08-16,Gran Plaza,Bariloche,Argentina,suite,1,7.0,225.0,1575.0,web_propia
+RES01641,2025-10-27,2025-11-19,2025-11-28,Posada del Sol,Mendoza,Argentina,suite,2,9.0,225.0,2025.0,web_propia
+RES01643,2024-03-14,2024-04-02,2024-04-11,Mirador Resort,Mendoza,Argentina,doble,4,9.0,105.05,945.45,booking
+RES01644,2025-07-25,2025-10-08,2025-10-12,Costa Azul,Mendoza,Argentina,doble,2,4.0,105.05,420.2,agencia
+RES01646,2023-12-15,2024-01-02,2024-01-07,Costa Azul,Salta,Argentina,suite,4,5.0,180.0,900.0,booking
+RES01648,2023-10-16,2024-01-04,2024-01-14,Posada del Sol,Cartagena,Colombia,simple,2,10.0,66.0,660.0,web_propia
+RES01649,2024-12-07,2025-01-06,2025-01-07,Hotel Andino,Cartagena,Colombia,suite,2,1.0,180.0,180.0,booking
+RES01653,2024-10-03,2024-10-29,2024-11-02,Costa Azul,Florianopolis,Brasil,doble,3,4.0,95.5,382.0,telefono
+RES01654,2024-09-22,2024-10-05,2024-10-10,Posada del Sol,Bariloche,Argentina,doble,1,5.0,105.05,525.25,booking
+RES01657,2024-11-27,2024-12-10,2024-12-12,Costa Azul,Bariloche,Argentina,doble,2,2.0,119.38,238.76,agencia
+RES01659,2025-11-05,2025-12-14,2025-12-19,Gran Plaza,Cartagena,Colombia,doble,3,5.0,105.05,525.25,booking
+RES01662,2023-12-12,2024-01-06,2024-01-07,Gran Plaza,Punta del Este,Uruguay,doble,4,1.0,119.38,119.38,booking
+RES01664,2025-08-21,2025-09-01,2025-09-07,Mirador Resort,Bariloche,Argentina,doble,2,6.0,119.38,716.28,telefono
+RES02458,2025-07-07,2025-10-05,2025-10-10,Posada del Sol,Salta,Argentina,doble,3,5.0,119.38,596.9,telefono
+RES01666,2025-01-29,2025-03-02,2025-03-08,Mirador Resort,Punta del Este,Uruguay,simple,3,6.0,75.0,450.0,booking
+RES01669,2025-02-21,2025-05-18,2025-05-24,Costa Azul,Cusco,Peru,doble,4,6.0,95.5,573.0,telefono
+RES01670,2024-09-09,2024-10-03,2024-10-05,Mirador Resort,Mendoza,Argentina,simple,1,2.0,60.0,120.0,booking
+RES01671,2024-10-14,2024-11-22,2024-12-01,Costa Azul,Cusco,Peru,suite,3,9.0,180.0,1620.0,web_propia
+RES01672,2024-06-15,2024-07-29,2024-07-30,Gran Plaza,Cusco,Peru,doble,4,1.0,105.05,105.05,web_propia
+RES01673,2025-08-26,2025-11-11,2025-11-15,Gran Plaza,Punta del Este,Uruguay,doble,2,4.0,95.5,382.0,web_propia
+RES01674,2025-03-27,2025-04-09,2025-04-11,Posada del Sol,Cusco,Peru,suite,3,2.0,198.0,396.0,telefono
+RES01676,2025-09-15,2025-10-12,2025-10-16,Mirador Resort,Cartagena,Colombia,simple,3,4.0,60.0,240.0,booking
+RES01677,2024-07-25,2024-10-18,2024-10-24,Mirador Resort,Cusco,Peru,suite,4,6.0,198.0,1188.0,booking
+RES01678,2024-03-15,2024-05-28,2024-05-29,Gran Plaza,Mendoza,Argentina,doble,1,1.0,105.05,105.05,booking
+RES01680,2025-10-14,2025-11-19,2025-11-23,Posada del Sol,Cartagena,Colombia,simple,4,4.0,75.0,300.0,booking
+RES01688,2024-08-01,2024-10-28,2024-11-05,Costa Azul,Cusco,Peru,suite,2,8.0,225.0,1800.0,web_propia
+RES01690,2024-05-01,2024-06-15,2024-06-17,Posada del Sol,Cusco,Peru,suite,4,2.0,225.0,450.0,web_propia
+RES01693,2024-07-10,2024-08-23,2024-08-26,Gran Plaza,Florianopolis,Brasil,simple,3,3.0,66.0,198.0,telefono
+RES01694,2024-06-29,2024-09-15,2024-09-25,Gran Plaza,Florianopolis,Brasil,simple,3,10.0,66.0,660.0,web_propia
+RES01696,2025-04-26,2025-07-05,2025-07-06,Costa Azul,Punta del Este,Uruguay,doble,2,1.0,95.5,95.5,telefono
+RES01698,2024-02-03,2024-03-02,2024-03-06,Mirador Resort,Cusco,Peru,simple,2,4.0,60.0,240.0,web_propia
+RES01702,2024-12-21,2025-02-03,2025-02-13,Hotel Andino,Cartagena,Colombia,doble,3,10.0,105.05,1050.5,telefono
+RES01708,2025-07-23,2025-09-09,2025-09-14,Gran Plaza,Salta,Argentina,suite,4,5.0,198.0,990.0,booking
+RES01713,2025-02-04,2025-03-24,2025-03-25,Posada del Sol,Mendoza,Argentina,doble,4,1.0,119.38,119.38,agencia
+RES01715,2024-12-10,2024-12-28,2025-01-07,Gran Plaza,Cartagena,Colombia,suite,3,10.0,225.0,2250.0,booking
+RES01719,2025-07-23,2025-09-27,2025-10-01,Gran Plaza,Salta,Argentina,suite,3,4.0,225.0,900.0,booking
+RES01720,2024-01-01,2024-01-27,2024-01-31,Mirador Resort,Cusco,Peru,suite,4,4.0,225.0,900.0,web_propia
+RES01721,2025-01-01,2025-03-27,2025-04-05,Costa Azul,Cartagena,Colombia,simple,2,9.0,66.0,594.0,telefono
+RES01722,2024-12-14,2025-01-22,2025-01-31,Mirador Resort,Cusco,Peru,simple,1,9.0,60.0,540.0,telefono
+RES01725,2024-12-08,2025-02-07,2025-02-16,Posada del Sol,Salta,Argentina,simple,1,9.0,66.0,594.0,telefono
+RES01731,2024-01-21,2024-03-23,2024-03-31,Hotel Andino,Salta,Argentina,doble,4,8.0,119.38,955.04,web_propia
+RES01732,2024-08-27,2024-11-17,2024-11-22,Posada del Sol,Salta,Argentina,suite,1,5.0,225.0,1125.0,booking
+RES01733,2025-08-03,2025-09-10,2025-09-20,Hotel Andino,Salta,Argentina,simple,4,10.0,60.0,600.0,booking
+RES01734,2025-07-19,2025-10-01,2025-10-09,Posada del Sol,Florianopolis,Brasil,suite,4,8.0,225.0,1800.0,booking
+RES01740,2025-06-06,2025-07-01,2025-07-06,Hotel Andino,Punta del Este,Uruguay,doble,2,5.0,119.38,596.9,web_propia
+RES01741,2024-11-19,2024-12-14,2024-12-22,Mirador Resort,Cusco,Peru,simple,4,8.0,60.0,480.0,telefono
+RES01743,2025-08-05,2025-09-12,2025-09-22,Costa Azul,Bariloche,Argentina,suite,2,10.0,225.0,2250.0,agencia
+RES01745,2024-06-06,2024-06-24,2024-06-26,Posada del Sol,Florianopolis,Brasil,simple,1,2.0,75.0,150.0,booking
+RES01747,2025-08-23,2025-09-19,2025-09-23,Hotel Andino,Cusco,Peru,simple,4,4.0,66.0,264.0,web_propia
+RES01749,2024-09-18,2024-12-15,2024-12-16,Gran Plaza,Cusco,Peru,simple,3,1.0,60.0,60.0,agencia
+RES01753,2025-06-14,2025-07-23,2025-08-02,Posada del Sol,Salta,Argentina,doble,2,10.0,95.5,955.0,agencia
+RES01754,2024-08-16,2024-10-10,2024-10-17,Costa Azul,Salta,Argentina,simple,1,7.0,60.0,420.0,web_propia
+RES01756,2024-12-19,2025-01-31,2025-02-02,Hotel Andino,Bariloche,Argentina,suite,4,2.0,198.0,396.0,telefono
+RES01757,2024-01-22,2024-02-21,2024-02-28,Costa Azul,Salta,Argentina,doble,3,7.0,105.05,735.35,booking
+RES01759,2024-06-14,2024-08-07,2024-08-14,Costa Azul,Punta del Este,Uruguay,suite,3,7.0,180.0,1260.0,booking
+RES01760,2024-05-28,2024-06-19,2024-06-26,Hotel Andino,Bariloche,Argentina,doble,4,7.0,119.38,835.66,web_propia
+RES01761,2024-11-22,2024-12-04,2024-12-05,Hotel Andino,Salta,Argentina,simple,4,1.0,75.0,75.0,booking
+RES01763,2025-09-12,2025-09-24,2025-09-27,Posada del Sol,Salta,Argentina,simple,1,3.0,60.0,180.0,agencia
+RES01764,2025-06-30,2025-09-18,2025-09-27,Posada del Sol,Cusco,Peru,suite,3,9.0,225.0,2025.0,booking
+RES01765,2024-01-24,2024-03-31,2024-04-01,Costa Azul,Salta,Argentina,suite,3,1.0,198.0,198.0,web_propia
+RES01767,2024-09-22,2024-11-02,2024-11-03,Gran Plaza,Cartagena,Colombia,simple,2,1.0,75.0,75.0,booking
+RES01768,2024-01-06,2024-01-31,2024-02-05,Gran Plaza,Mendoza,Argentina,suite,1,5.0,198.0,990.0,agencia
+RES02003,2025-03-14,2025-03-24,2025-04-03,Hotel Andino,Cusco,Peru,suite,1,10.0,198.0,1980.0,telefono
+RES01769,2025-07-01,2025-08-25,2025-08-26,Costa Azul,Cartagena,Colombia,simple,2,1.0,60.0,60.0,booking
+RES01770,2024-05-30,2024-06-29,2024-07-02,Posada del Sol,Florianopolis,Brasil,suite,2,3.0,225.0,675.0,agencia
+RES01774,2025-12-05,2025-12-14,2025-12-17,Mirador Resort,Cusco,Peru,suite,1,3.0,225.0,675.0,web_propia
+RES01776,2024-07-17,2024-08-07,2024-08-09,Gran Plaza,Punta del Este,Uruguay,doble,4,2.0,105.05,210.1,agencia
+RES01777,2024-04-05,2024-05-24,2024-05-31,Mirador Resort,Cusco,Peru,suite,4,7.0,180.0,1260.0,agencia
+RES01778,2024-04-23,2024-07-14,2024-07-19,Posada del Sol,Cusco,Peru,simple,3,5.0,66.0,330.0,agencia
+RES01779,2023-12-11,2024-02-09,2024-02-14,Mirador Resort,Punta del Este,Uruguay,simple,4,5.0,75.0,375.0,agencia
+RES01782,2025-02-12,2025-02-23,2025-02-24,Posada del Sol,Cartagena,Colombia,simple,2,1.0,75.0,75.0,booking
+RES01783,2024-12-11,2025-02-11,2025-02-15,Hotel Andino,Cusco,Peru,doble,4,4.0,95.5,382.0,agencia
+RES01785,2025-04-20,2025-07-14,2025-07-21,Gran Plaza,Punta del Este,Uruguay,doble,2,7.0,105.05,735.35,agencia
+RES01786,2025-09-02,2025-10-01,2025-10-08,Costa Azul,Bariloche,Argentina,simple,1,7.0,60.0,420.0,booking
+RES01790,2025-05-08,2025-07-12,2025-07-17,Hotel Andino,Cartagena,Colombia,simple,4,5.0,60.0,300.0,telefono
+RES01792,2025-03-03,2025-04-06,2025-04-15,Gran Plaza,Bariloche,Argentina,doble,3,9.0,95.5,859.5,web_propia
+RES01793,2024-05-30,2024-07-15,2024-07-23,Posada del Sol,Salta,Argentina,simple,3,8.0,75.0,600.0,telefono
+RES01795,2024-04-20,2024-05-13,2024-05-14,Hotel Andino,Punta del Este,Uruguay,suite,3,1.0,225.0,225.0,booking
+RES01802,2025-01-01,2025-02-04,2025-02-12,Costa Azul,Cartagena,Colombia,doble,1,8.0,95.5,764.0,web_propia
+RES01808,2024-10-14,2024-12-24,2024-12-27,Hotel Andino,Bariloche,Argentina,doble,1,3.0,105.05,315.15,agencia
+RES01810,2024-06-12,2024-07-17,2024-07-21,Hotel Andino,Punta del Este,Uruguay,suite,4,4.0,180.0,720.0,agencia
+RES01812,2025-01-13,2025-03-12,2025-03-22,Posada del Sol,Cartagena,Colombia,simple,3,10.0,66.0,660.0,agencia
+RES01813,2025-01-31,2025-04-27,2025-05-02,Gran Plaza,Salta,Argentina,suite,4,5.0,225.0,1125.0,booking
+RES01814,2025-08-13,2025-10-21,2025-10-29,Posada del Sol,Bariloche,Argentina,suite,4,8.0,180.0,1440.0,booking
+RES01816,2024-08-23,2024-09-13,2024-09-22,Posada del Sol,Mendoza,Argentina,suite,1,9.0,225.0,2025.0,agencia
+RES01818,2024-06-12,2024-09-03,2024-09-06,Mirador Resort,Salta,Argentina,suite,3,3.0,225.0,675.0,web_propia
+RES01820,2024-08-19,2024-09-04,2024-09-09,Costa Azul,Punta del Este,Uruguay,simple,1,5.0,66.0,330.0,web_propia
+RES01823,2025-02-13,2025-03-27,2025-04-04,Posada del Sol,Cusco,Peru,doble,2,8.0,119.38,955.04,booking
+RES01824,2024-05-10,2024-07-19,2024-07-22,Hotel Andino,Punta del Este,Uruguay,doble,2,3.0,105.05,315.15,agencia
+RES01825,2024-06-02,2024-08-15,2024-08-21,Costa Azul,Cartagena,Colombia,simple,3,6.0,60.0,360.0,telefono
+RES02275,2025-06-10,2025-08-27,2025-09-05,Posada del Sol,Mendoza,Argentina,simple,2,9.0,60.0,540.0,telefono
+RES01827,2025-01-08,2025-03-13,2025-03-18,Mirador Resort,Cartagena,Colombia,suite,1,5.0,225.0,1125.0,web_propia
+RES01833,2024-08-17,2024-11-02,2024-11-08,Mirador Resort,Florianopolis,Brasil,suite,1,6.0,225.0,1350.0,agencia
+RES01834,2025-09-24,2025-10-28,2025-11-06,Mirador Resort,Bariloche,Argentina,simple,2,9.0,66.0,594.0,booking
+RES01836,2024-09-29,2024-11-06,2024-11-13,Mirador Resort,Punta del Este,Uruguay,doble,4,7.0,119.38,835.66,telefono
+RES01842,2025-01-29,2025-02-23,2025-03-03,Gran Plaza,Cartagena,Colombia,suite,3,8.0,180.0,1440.0,booking
+RES01843,2025-04-02,2025-06-17,2025-06-18,Mirador Resort,Bariloche,Argentina,suite,2,1.0,225.0,225.0,telefono
+RES01845,2025-04-20,2025-07-19,2025-07-21,Posada del Sol,Bariloche,Argentina,suite,3,2.0,198.0,396.0,agencia
+RES01849,2025-02-17,2025-04-15,2025-04-23,Costa Azul,Salta,Argentina,suite,4,8.0,198.0,1584.0,agencia
+RES01851,2025-10-21,2025-11-21,2025-11-29,Gran Plaza,Punta del Este,Uruguay,simple,2,8.0,75.0,600.0,agencia
+RES01852,2024-03-20,2024-05-11,2024-05-15,Mirador Resort,Salta,Argentina,suite,3,4.0,180.0,720.0,telefono
+RES01853,2024-03-27,2024-05-13,2024-05-21,Gran Plaza,Punta del Este,Uruguay,suite,2,8.0,198.0,1584.0,telefono
+RES01855,2024-07-08,2024-08-19,2024-08-24,Costa Azul,Salta,Argentina,suite,3,5.0,225.0,1125.0,agencia
+RES01858,2025-01-31,2025-04-10,2025-04-11,Costa Azul,Punta del Este,Uruguay,suite,3,1.0,225.0,225.0,telefono
+RES01866,2024-12-26,2025-03-20,2025-03-26,Costa Azul,Mendoza,Argentina,doble,1,6.0,95.5,573.0,web_propia
+RES01867,2025-08-13,2025-11-07,2025-11-15,Posada del Sol,Salta,Argentina,suite,2,8.0,180.0,1440.0,booking
+RES01868,2025-02-12,2025-02-23,2025-02-24,Gran Plaza,Bariloche,Argentina,doble,3,1.0,119.38,119.38,agencia
+RES01869,2025-05-14,2025-06-21,2025-06-30,Mirador Resort,Punta del Este,Uruguay,simple,4,9.0,60.0,540.0,agencia
+RES01873,2025-02-05,2025-03-05,2025-03-09,Posada del Sol,Bariloche,Argentina,suite,2,4.0,225.0,900.0,web_propia
+RES01879,2024-01-28,2024-03-07,2024-03-17,Costa Azul,Cusco,Peru,doble,1,10.0,105.05,1050.5,agencia
+RES01880,2025-07-22,2025-08-06,2025-08-11,Costa Azul,Bariloche,Argentina,simple,4,5.0,60.0,300.0,booking
+RES01887,2024-10-05,2024-12-14,2024-12-18,Hotel Andino,Punta del Este,Uruguay,doble,2,4.0,119.38,477.52,telefono
+RES01890,2025-09-13,2025-11-15,2025-11-16,Mirador Resort,Cartagena,Colombia,doble,3,1.0,105.05,105.05,agencia
+RES01891,2025-06-21,2025-08-26,2025-08-31,Mirador Resort,Punta del Este,Uruguay,doble,3,5.0,119.38,596.9,telefono
+RES01892,2025-02-08,2025-03-09,2025-03-12,Gran Plaza,Mendoza,Argentina,simple,1,3.0,75.0,225.0,agencia
+RES01893,2024-07-24,2024-08-29,2024-09-08,Mirador Resort,Bariloche,Argentina,suite,2,10.0,198.0,1980.0,booking
+RES01894,2024-01-27,2024-03-21,2024-03-23,Posada del Sol,Cusco,Peru,simple,3,2.0,66.0,132.0,booking
+RES01895,2024-05-25,2024-08-09,2024-08-11,Costa Azul,Florianopolis,Brasil,doble,2,2.0,119.38,238.76,telefono
+RES01896,2025-08-20,2025-09-15,2025-09-16,Hotel Andino,Cusco,Peru,doble,2,1.0,105.05,105.05,web_propia
+RES01897,2025-08-05,2025-08-20,2025-08-23,Mirador Resort,Salta,Argentina,suite,3,3.0,180.0,540.0,agencia
+RES01901,2024-09-04,2024-09-16,2024-09-22,Gran Plaza,Cartagena,Colombia,doble,3,6.0,95.5,573.0,booking
+RES01903,2024-02-27,2024-03-19,2024-03-27,Hotel Andino,Cartagena,Colombia,simple,4,8.0,60.0,480.0,agencia
+RES01908,2023-11-05,2024-01-13,2024-01-18,Hotel Andino,Punta del Este,Uruguay,doble,3,5.0,119.38,596.9,web_propia
+RES01910,2023-10-24,2024-01-15,2024-01-20,Costa Azul,Salta,Argentina,suite,1,5.0,225.0,1125.0,web_propia
+RES01914,2024-07-27,2024-10-21,2024-10-26,Posada del Sol,Punta del Este,Uruguay,doble,2,5.0,119.38,596.9,telefono
+RES01916,2025-04-24,2025-06-14,2025-06-19,Costa Azul,Mendoza,Argentina,suite,1,5.0,225.0,1125.0,booking
+RES01917,2025-05-14,2025-07-23,2025-07-25,Hotel Andino,Cusco,Peru,doble,2,2.0,119.38,238.76,booking
+RES01921,2024-12-12,2025-03-09,2025-03-18,Gran Plaza,Cartagena,Colombia,suite,4,9.0,180.0,1620.0,web_propia
+RES01923,2025-01-10,2025-02-14,2025-02-16,Gran Plaza,Cusco,Peru,doble,4,2.0,95.5,191.0,agencia
+RES01924,2025-10-02,2025-12-24,2025-12-31,Gran Plaza,Salta,Argentina,suite,2,7.0,180.0,1260.0,web_propia
+RES01930,2024-11-30,2025-02-13,2025-02-22,Costa Azul,Mendoza,Argentina,suite,1,9.0,198.0,1782.0,web_propia
+RES01932,2024-03-17,2024-03-30,2024-04-03,Mirador Resort,Mendoza,Argentina,simple,2,4.0,75.0,300.0,agencia
+RES01934,2024-08-18,2024-10-11,2024-10-14,Mirador Resort,Punta del Este,Uruguay,doble,1,3.0,95.5,286.5,agencia
+RES01936,2024-01-14,2024-02-08,2024-02-15,Costa Azul,Cartagena,Colombia,suite,4,7.0,180.0,1260.0,telefono
+RES01939,2024-07-11,2024-08-09,2024-08-14,Gran Plaza,Bariloche,Argentina,suite,2,5.0,225.0,1125.0,booking
+RES01942,2025-11-22,2025-12-07,2025-12-13,Mirador Resort,Bariloche,Argentina,doble,3,6.0,95.5,573.0,agencia
+RES01943,2025-07-17,2025-08-18,2025-08-21,Posada del Sol,Cartagena,Colombia,doble,4,3.0,119.38,358.14,booking
+RES01944,2024-07-06,2024-08-21,2024-08-27,Posada del Sol,Punta del Este,Uruguay,doble,2,6.0,119.38,716.28,telefono
+RES01949,2025-03-22,2025-06-17,2025-06-23,Hotel Andino,Cusco,Peru,doble,4,6.0,105.05,630.3,agencia
+RES01950,2025-04-12,2025-07-04,2025-07-07,Posada del Sol,Bariloche,Argentina,doble,4,3.0,95.5,286.5,booking
+RES01951,2025-01-26,2025-02-05,2025-02-11,Costa Azul,Mendoza,Argentina,doble,1,6.0,95.5,573.0,agencia
+RES01952,2024-01-28,2024-03-26,2024-04-04,Gran Plaza,Florianopolis,Brasil,suite,4,9.0,225.0,2025.0,web_propia
+RES01953,2024-04-12,2024-07-04,2024-07-09,Mirador Resort,Salta,Argentina,suite,4,5.0,198.0,990.0,booking
+RES01957,2024-05-14,2024-06-29,2024-06-30,Mirador Resort,Mendoza,Argentina,simple,4,1.0,75.0,75.0,booking
+RES01958,2024-01-16,2024-02-27,2024-02-29,Gran Plaza,Bariloche,Argentina,doble,4,2.0,119.38,238.76,web_propia
+RES01963,2024-11-18,2025-01-03,2025-01-12,Gran Plaza,Cartagena,Colombia,doble,1,9.000000000000002,119.38,1074.42,booking
+RES01964,2025-07-26,2025-09-08,2025-09-13,Costa Azul,Salta,Argentina,doble,4,5.0,95.5,477.5,telefono
+RES01965,2025-02-01,2025-03-02,2025-03-03,Posada del Sol,Cartagena,Colombia,simple,3,1.0,66.0,66.0,agencia
+RES01966,2025-06-14,2025-08-26,2025-08-30,Mirador Resort,Cusco,Peru,doble,3,4.0,119.38,477.52,booking
+RES01967,2025-12-05,2025-12-10,2025-12-11,Gran Plaza,Cartagena,Colombia,doble,2,1.0,95.5,95.5,booking
+RES01968,2024-03-08,2024-04-21,2024-04-24,Posada del Sol,Florianopolis,Brasil,doble,3,3.0,95.5,286.5,web_propia
+RES01969,2025-02-14,2025-03-15,2025-03-24,Gran Plaza,Cusco,Peru,suite,2,9.0,225.0,2025.0,booking
+RES01970,2024-08-15,2024-10-18,2024-10-26,Costa Azul,Salta,Argentina,suite,3,8.0,198.0,1584.0,web_propia
+RES01971,2025-08-12,2025-09-06,2025-09-07,Costa Azul,Cartagena,Colombia,doble,1,1.0,95.5,95.5,booking
+RES01976,2025-05-23,2025-08-06,2025-08-07,Gran Plaza,Salta,Argentina,doble,1,1.0,95.5,95.5,agencia
+RES01978,2024-10-07,2024-10-29,2024-11-01,Posada del Sol,Salta,Argentina,suite,3,3.0,225.0,675.0,booking
+RES01980,2025-06-15,2025-06-25,2025-06-30,Mirador Resort,Bariloche,Argentina,suite,4,5.0,198.0,990.0,web_propia
+RES01982,2024-12-27,2025-01-19,2025-01-22,Hotel Andino,Bariloche,Argentina,simple,1,3.0,60.0,180.0,booking
+RES01984,2025-08-04,2025-10-21,2025-10-27,Posada del Sol,Cusco,Peru,suite,1,6.0,198.0,1188.0,agencia
+RES01985,2025-06-18,2025-09-03,2025-09-04,Hotel Andino,Mendoza,Argentina,doble,4,1.0,119.38,119.38,telefono
+RES01986,2024-06-21,2024-07-29,2024-08-08,Costa Azul,Salta,Argentina,simple,1,10.0,75.0,750.0,agencia
+RES01987,2025-01-08,2025-03-11,2025-03-16,Gran Plaza,Cartagena,Colombia,suite,3,5.0,225.0,1125.0,telefono
+RES01988,2024-12-13,2025-02-15,2025-02-23,Costa Azul,Salta,Argentina,suite,3,8.0,225.0,1800.0,web_propia
+RES01989,2024-07-25,2024-08-11,2024-08-18,Posada del Sol,Florianopolis,Brasil,doble,2,7.0,119.38,835.66,web_propia
+RES01990,2024-04-12,2024-05-31,2024-06-08,Costa Azul,Bariloche,Argentina,suite,4,8.0,198.0,1584.0,telefono
+RES01991,2025-09-15,2025-11-08,2025-11-14,Costa Azul,Salta,Argentina,doble,3,6.0,105.05,630.3,booking
+RES01992,2024-06-30,2024-07-12,2024-07-16,Posada del Sol,Punta del Este,Uruguay,simple,2,4.0,60.0,240.0,agencia
+RES02171,2024-02-03,2024-03-19,2024-03-28,Mirador Resort,Florianopolis,Brasil,doble,1,9.0,105.05,945.45,booking
+RES01998,2023-12-25,2024-01-12,2024-01-20,Posada del Sol,Cusco,Peru,simple,1,8.0,60.0,480.0,booking
+RES02004,2025-07-09,2025-08-10,2025-08-13,Hotel Andino,Cartagena,Colombia,suite,3,3.0,180.0,540.0,telefono
+RES02006,2024-06-18,2024-07-01,2024-07-03,Mirador Resort,Bariloche,Argentina,simple,3,2.0,75.0,150.0,web_propia
+RES02008,2025-06-29,2025-07-23,2025-07-29,Mirador Resort,Salta,Argentina,doble,3,6.0,119.38,716.28,telefono
+RES02009,2025-05-04,2025-07-04,2025-07-14,Hotel Andino,Cusco,Peru,doble,4,10.0,95.5,955.0,telefono
+RES02010,2025-04-30,2025-05-21,2025-05-28,Costa Azul,Bariloche,Argentina,suite,2,7.0,225.0,1575.0,booking
+RES02011,2025-09-07,2025-11-24,2025-11-26,Gran Plaza,Cartagena,Colombia,suite,3,2.0,198.0,396.0,web_propia
+RES02012,2024-08-08,2024-08-31,2024-09-09,Hotel Andino,Bariloche,Argentina,doble,4,9.0,105.05,945.4499999999999,telefono
+RES02013,2024-08-24,2024-09-26,2024-09-27,Hotel Andino,Mendoza,Argentina,doble,2,1.0,95.5,95.5,booking
+RES02015,2024-04-20,2024-06-29,2024-07-06,Hotel Andino,Bariloche,Argentina,doble,4,7.0,119.38,835.66,telefono
+RES02016,2024-03-12,2024-05-24,2024-05-28,Mirador Resort,Cusco,Peru,suite,2,4.0,225.0,900.0,agencia
+RES02017,2025-04-10,2025-05-30,2025-06-09,Hotel Andino,Florianopolis,Brasil,doble,2,10.0,105.05,1050.5,agencia
+RES02018,2025-03-18,2025-04-01,2025-04-04,Mirador Resort,Salta,Argentina,simple,1,3.0,66.0,198.0,booking
+RES02019,2024-02-04,2024-04-18,2024-04-26,Mirador Resort,Salta,Argentina,suite,1,8.0,225.0,1800.0,telefono
+RES02022,2025-03-29,2025-05-16,2025-05-24,Hotel Andino,Bariloche,Argentina,suite,3,8.0,198.0,1584.0,agencia
+RES02023,2024-11-22,2024-12-14,2024-12-24,Hotel Andino,Cartagena,Colombia,simple,4,10.0,60.0,600.0,telefono
+RES02024,2024-11-27,2024-12-22,2024-12-23,Gran Plaza,Florianopolis,Brasil,doble,1,1.0,105.05,105.05,web_propia
+RES02025,2024-09-27,2024-10-11,2024-10-15,Gran Plaza,Bariloche,Argentina,simple,2,4.0,66.0,264.0,telefono
+RES02026,2025-09-09,2025-11-15,2025-11-18,Gran Plaza,Cusco,Peru,doble,1,3.0,95.5,286.5,telefono
+RES02028,2024-07-01,2024-09-23,2024-09-26,Gran Plaza,Salta,Argentina,suite,2,3.0,198.0,594.0,telefono
+RES02029,2024-07-12,2024-09-26,2024-09-30,Hotel Andino,Florianopolis,Brasil,simple,2,4.0,75.0,300.0,web_propia
+RES02030,2024-04-02,2024-06-20,2024-06-24,Mirador Resort,Bariloche,Argentina,doble,1,4.0,95.5,382.0,booking
+RES02033,2024-01-20,2024-02-11,2024-02-19,Posada del Sol,Salta,Argentina,suite,4,8.0,180.0,1440.0,agencia
+RES02036,2024-01-24,2024-01-31,2024-02-09,Gran Plaza,Punta del Este,Uruguay,suite,1,9.0,225.0,2025.0,telefono
+RES02037,2023-11-22,2024-01-01,2024-01-02,Posada del Sol,Cusco,Peru,doble,4,1.0,95.5,95.5,telefono
+RES02040,2024-12-07,2024-12-22,2024-12-31,Posada del Sol,Punta del Este,Uruguay,doble,3,9.0,105.05,945.45,web_propia
+RES02041,2024-01-12,2024-01-25,2024-01-27,Hotel Andino,Mendoza,Argentina,suite,3,2.0,225.0,450.0,agencia
+RES02043,2024-08-26,2024-09-03,2024-09-09,Posada del Sol,Cusco,Peru,simple,3,6.0,75.0,450.0,telefono
+RES02044,2025-11-12,2025-11-30,2025-12-07,Gran Plaza,Cusco,Peru,simple,1,7.0,66.0,462.0,telefono
+RES02048,2025-04-27,2025-05-02,2025-05-10,Hotel Andino,Cartagena,Colombia,doble,1,8.0,119.38,955.04,agencia
+RES02049,2025-06-09,2025-07-09,2025-07-18,Costa Azul,Florianopolis,Brasil,suite,4,9.0,180.0,1620.0,agencia
+RES02050,2025-07-01,2025-09-20,2025-09-26,Gran Plaza,Bariloche,Argentina,simple,2,6.0,75.0,450.0,web_propia
+RES02051,2025-10-26,2025-12-27,2025-12-28,Costa Azul,Cusco,Peru,doble,4,1.0,95.5,95.5,telefono
+RES02058,2025-03-16,2025-05-23,2025-05-27,Gran Plaza,Cusco,Peru,doble,2,4.0,119.38,477.52,booking
+RES02064,2025-08-03,2025-08-22,2025-08-23,Costa Azul,Cartagena,Colombia,simple,3,1.0,60.0,60.0,web_propia
+RES02066,2024-08-01,2024-10-13,2024-10-15,Posada del Sol,Florianopolis,Brasil,simple,4,2.0,60.0,120.0,agencia
+RES02067,2025-01-21,2025-02-20,2025-02-23,Mirador Resort,Punta del Este,Uruguay,suite,2,3.0,180.0,540.0,agencia
+RES02068,2025-03-11,2025-05-16,2025-05-25,Mirador Resort,Salta,Argentina,suite,1,9.0,225.0,2025.0,telefono
+RES02069,2024-10-01,2024-12-24,2024-12-27,Gran Plaza,Punta del Este,Uruguay,doble,3,3.0,119.38,358.14,telefono
+RES02070,2024-10-31,2024-12-04,2024-12-11,Costa Azul,Florianopolis,Brasil,doble,3,7.0,119.38,835.66,telefono
+RES02072,2025-09-24,2025-10-19,2025-10-20,Hotel Andino,Cartagena,Colombia,suite,2,1.0,180.0,180.0,agencia
+RES02081,2024-03-01,2024-04-23,2024-04-26,Hotel Andino,Cartagena,Colombia,simple,4,3.0,60.0,180.0,booking
+RES02083,2024-07-25,2024-08-29,2024-09-01,Costa Azul,Punta del Este,Uruguay,simple,1,3.0,66.0,198.0,telefono
+RES02085,2025-03-01,2025-05-26,2025-06-01,Gran Plaza,Florianopolis,Brasil,doble,3,6.0,95.5,573.0,telefono
+RES02086,2024-03-04,2024-03-24,2024-03-29,Posada del Sol,Florianopolis,Brasil,doble,2,5.0,119.38,596.9,web_propia
+RES02090,2025-07-22,2025-09-06,2025-09-14,Hotel Andino,Punta del Este,Uruguay,doble,2,8.0,119.38,955.04,telefono
+RES02091,2024-07-18,2024-09-15,2024-09-18,Hotel Andino,Florianopolis,Brasil,suite,4,3.0,225.0,675.0,agencia
+RES02094,2023-12-28,2024-01-15,2024-01-25,Posada del Sol,Cartagena,Colombia,simple,2,10.0,66.0,660.0,telefono
+RES02097,2025-01-16,2025-03-29,2025-03-30,Gran Plaza,Bariloche,Argentina,suite,1,1.0,225.0,225.0,agencia
+RES02101,2025-06-29,2025-08-29,2025-09-08,Costa Azul,Punta del Este,Uruguay,suite,2,10.0,180.0,1800.0,booking
+RES02102,2024-10-02,2024-12-06,2024-12-09,Posada del Sol,Mendoza,Argentina,doble,1,3.0,105.05,315.15,booking
+RES02103,2024-10-03,2024-11-08,2024-11-12,Costa Azul,Bariloche,Argentina,doble,3,4.0,119.38,477.52,agencia
+RES02105,2025-09-30,2025-12-02,2025-12-12,Hotel Andino,Cartagena,Colombia,suite,1,10.0,180.0,1800.0,agencia
+RES02106,2024-07-16,2024-10-03,2024-10-12,Hotel Andino,Salta,Argentina,suite,4,9.0,198.0,1782.0,web_propia
+RES02107,2024-03-24,2024-03-30,2024-04-06,Gran Plaza,Cusco,Peru,doble,1,7.0,95.5,668.5,telefono
+RES02109,2024-11-11,2025-02-04,2025-02-13,Gran Plaza,Bariloche,Argentina,doble,3,9.0,95.5,859.5,agencia
+RES02113,2025-09-26,2025-11-27,2025-12-04,Hotel Andino,Cusco,Peru,doble,2,7.0,95.5,668.5,booking
+RES02115,2024-03-13,2024-05-05,2024-05-06,Posada del Sol,Cusco,Peru,doble,3,1.0,95.5,95.5,telefono
+RES02116,2024-02-02,2024-04-24,2024-04-25,Mirador Resort,Cusco,Peru,doble,4,1.0,95.5,95.5,booking
+RES02118,2025-03-07,2025-05-27,2025-06-05,Posada del Sol,Cartagena,Colombia,simple,4,9.0,75.0,675.0,web_propia
+RES02119,2024-01-24,2024-03-12,2024-03-16,Hotel Andino,Florianopolis,Brasil,suite,2,4.0,180.0,720.0,agencia
+RES02120,2024-07-19,2024-08-12,2024-08-15,Posada del Sol,Mendoza,Argentina,doble,4,3.0,95.5,286.5,agencia
+RES02123,2023-11-11,2024-02-02,2024-02-04,Hotel Andino,Cusco,Peru,doble,1,2.0,119.38,238.76,web_propia
+RES02124,2025-11-02,2025-11-26,2025-11-28,Posada del Sol,Punta del Este,Uruguay,doble,3,2.0,105.05,210.1,booking
+RES02126,2025-07-10,2025-08-17,2025-08-19,Mirador Resort,Mendoza,Argentina,doble,3,2.0,119.38,238.76,agencia
+RES02127,2024-10-07,2024-10-17,2024-10-22,Posada del Sol,Florianopolis,Brasil,doble,2,5.0,119.38,596.9,telefono
+RES02128,2024-07-23,2024-10-14,2024-10-23,Gran Plaza,Cartagena,Colombia,doble,2,9.0,105.05,945.45,booking
+RES02130,2025-04-13,2025-05-21,2025-05-22,Costa Azul,Mendoza,Argentina,simple,4,1.0,66.0,66.0,agencia
+RES02133,2024-04-04,2024-07-01,2024-07-03,Mirador Resort,Cartagena,Colombia,suite,4,2.0,225.0,450.0,booking
+RES02135,2024-09-18,2024-12-03,2024-12-04,Hotel Andino,Florianopolis,Brasil,simple,3,1.0,60.0,60.0,agencia
+RES02136,2025-04-09,2025-06-05,2025-06-08,Gran Plaza,Cartagena,Colombia,suite,4,3.0,198.0,594.0,web_propia
+RES02138,2024-11-02,2024-11-28,2024-12-03,Mirador Resort,Punta del Este,Uruguay,doble,3,5.0,95.5,477.5,web_propia
+RES02139,2025-07-26,2025-09-23,2025-09-29,Posada del Sol,Cusco,Peru,doble,2,6.0,105.05,630.3,booking
+RES02141,2024-09-16,2024-10-20,2024-10-30,Posada del Sol,Mendoza,Argentina,suite,3,10.0,180.0,1800.0,booking
+RES02145,2025-02-03,2025-05-04,2025-05-10,Mirador Resort,Mendoza,Argentina,suite,2,6.0,198.0,1188.0,web_propia
+RES02147,2024-04-26,2024-06-21,2024-06-27,Hotel Andino,Cartagena,Colombia,doble,1,6.0,95.5,573.0,agencia
+RES02148,2025-09-05,2025-10-23,2025-11-02,Costa Azul,Cartagena,Colombia,doble,2,10.0,119.38,1193.8,web_propia
+RES02150,2024-05-11,2024-07-31,2024-08-01,Gran Plaza,Cusco,Peru,simple,1,1.0,75.0,75.0,booking
+RES02153,2024-10-15,2025-01-01,2025-01-09,Posada del Sol,Mendoza,Argentina,suite,4,8.0,180.0,1440.0,agencia
+RES02157,2024-05-30,2024-08-28,2024-09-04,Hotel Andino,Cusco,Peru,doble,2,7.0,105.05,735.35,booking
+RES02158,2024-11-27,2025-01-18,2025-01-22,Posada del Sol,Cusco,Peru,simple,3,4.0,75.0,300.0,booking
+RES02162,2024-01-06,2024-01-27,2024-02-03,Costa Azul,Salta,Argentina,simple,1,7.0,66.0,462.0,telefono
+RES02167,2023-12-19,2024-01-03,2024-01-13,Mirador Resort,Punta del Este,Uruguay,simple,4,10.0,66.0,660.0,booking
+RES02168,2024-07-19,2024-07-28,2024-08-04,Costa Azul,Bariloche,Argentina,doble,2,7.0,95.5,668.5,booking
+RES02169,2024-05-30,2024-06-16,2024-06-20,Mirador Resort,Cusco,Peru,suite,1,4.0,225.0,900.0,booking
+RES02170,2025-06-14,2025-07-13,2025-07-14,Mirador Resort,Cusco,Peru,suite,2,1.0,198.0,198.0,web_propia
+RES02173,2025-07-29,2025-08-07,2025-08-09,Gran Plaza,Salta,Argentina,suite,4,2.0,198.0,396.0,web_propia
+RES02176,2024-12-01,2025-01-06,2025-01-10,Hotel Andino,Cartagena,Colombia,doble,1,4.0,105.05,420.2,web_propia
+RES02177,2025-03-23,2025-04-02,2025-04-07,Posada del Sol,Cartagena,Colombia,suite,3,5.0,180.0,900.0,booking
+RES02178,2025-05-01,2025-06-17,2025-06-26,Hotel Andino,Punta del Este,Uruguay,suite,4,9.0,198.0,1782.0,web_propia
+RES02181,2025-02-12,2025-04-05,2025-04-10,Mirador Resort,Mendoza,Argentina,simple,1,5.0,75.0,375.0,web_propia
+RES02186,2025-07-08,2025-08-21,2025-08-28,Costa Azul,Cartagena,Colombia,suite,3,7.0,225.0,1575.0,agencia
+RES02187,2024-08-20,2024-10-28,2024-10-31,Mirador Resort,Mendoza,Argentina,suite,2,3.0,180.0,540.0,booking
+RES02188,2025-04-18,2025-07-16,2025-07-18,Costa Azul,Cusco,Peru,suite,3,2.0,225.0,450.0,web_propia
+RES02190,2025-03-19,2025-04-17,2025-04-23,Gran Plaza,Florianopolis,Brasil,doble,3,6.0,105.05,630.3,booking
+RES02193,2024-05-13,2024-06-20,2024-06-30,Hotel Andino,Florianopolis,Brasil,simple,2,10.0,60.0,600.0,booking
+RES02195,2024-01-11,2024-02-16,2024-02-25,Costa Azul,Florianopolis,Brasil,doble,1,9.0,95.5,859.5,web_propia
+RES02197,2024-02-16,2024-04-18,2024-04-22,Hotel Andino,Salta,Argentina,doble,1,4.0,95.5,382.0,booking
+RES02198,2025-01-13,2025-02-09,2025-02-17,Costa Azul,Salta,Argentina,simple,2,8.0,66.0,528.0,booking
+RES02199,2025-06-12,2025-06-29,2025-07-06,Costa Azul,Mendoza,Argentina,doble,4,7.0,119.38,835.66,telefono
+RES02205,2024-10-25,2024-11-24,2024-12-04,Hotel Andino,Florianopolis,Brasil,simple,4,10.0,60.0,600.0,telefono
+RES02206,2025-05-10,2025-05-20,2025-05-27,Hotel Andino,Mendoza,Argentina,doble,2,7.0,95.5,668.5,booking
+RES02207,2025-01-25,2025-04-21,2025-04-26,Gran Plaza,Cartagena,Colombia,suite,3,5.0,225.0,1125.0,booking
+RES02209,2025-07-11,2025-08-11,2025-08-21,Hotel Andino,Mendoza,Argentina,doble,4,10.0,119.38,1193.8,agencia
+RES02213,2025-03-23,2025-05-11,2025-05-17,Mirador Resort,Bariloche,Argentina,doble,3,6.0,119.38,716.28,agencia
+RES02218,2025-02-23,2025-05-22,2025-05-23,Costa Azul,Salta,Argentina,suite,3,1.0,180.0,180.0,web_propia
+RES02219,2025-06-07,2025-06-26,2025-06-28,Mirador Resort,Punta del Este,Uruguay,doble,4,2.0,119.38,238.76,booking
+RES02220,2025-07-20,2025-09-06,2025-09-15,Mirador Resort,Cartagena,Colombia,doble,1,9.0,105.05,945.45,booking
+RES02311,2024-04-04,2024-05-27,2024-05-29,Gran Plaza,Bariloche,Argentina,suite,2,2.0,198.0,396.0,booking
+RES02223,2025-07-04,2025-07-30,2025-08-03,Gran Plaza,Bariloche,Argentina,suite,3,4.0,225.0,900.0,web_propia
+RES02227,2024-06-12,2024-08-27,2024-09-02,Mirador Resort,Bariloche,Argentina,doble,3,6.0,119.38,716.28,web_propia
+RES02232,2025-10-05,2025-11-12,2025-11-20,Costa Azul,Cusco,Peru,suite,2,8.0,225.0,1800.0,booking
+RES02236,2024-10-20,2024-12-04,2024-12-11,Mirador Resort,Cusco,Peru,simple,1,7.0,66.0,462.0,booking
+RES02238,2023-12-20,2024-01-04,2024-01-14,Hotel Andino,Cusco,Peru,doble,4,10.0,95.5,955.0,web_propia
+RES02239,2024-06-02,2024-06-21,2024-06-27,Hotel Andino,Cusco,Peru,simple,1,6.0,60.0,360.0,telefono
+RES02241,2025-08-14,2025-09-08,2025-09-09,Mirador Resort,Cusco,Peru,suite,4,1.0,198.0,198.0,booking
+RES02243,2025-05-20,2025-06-11,2025-06-16,Costa Azul,Salta,Argentina,simple,3,5.0,60.0,300.0,telefono
+RES02244,2024-01-17,2024-03-29,2024-04-02,Costa Azul,Florianopolis,Brasil,simple,1,4.0,75.0,300.0,booking
+RES02245,2024-04-03,2024-06-03,2024-06-07,Costa Azul,Florianopolis,Brasil,simple,4,4.0,75.0,300.0,agencia
+RES02246,2024-11-14,2024-12-09,2024-12-15,Mirador Resort,Mendoza,Argentina,suite,3,6.0,180.0,1080.0,telefono
+RES02247,2025-02-02,2025-03-24,2025-03-26,Gran Plaza,Bariloche,Argentina,simple,2,2.0,66.0,132.0,web_propia
+RES02248,2024-08-11,2024-10-15,2024-10-17,Mirador Resort,Cusco,Peru,simple,3,2.0,75.0,150.0,booking
+RES02251,2024-12-04,2025-02-28,2025-03-07,Costa Azul,Florianopolis,Brasil,suite,3,7.0,225.0,1575.0,agencia
+RES02252,2024-09-30,2024-12-14,2024-12-19,Posada del Sol,Salta,Argentina,doble,3,5.0,95.5,477.5,web_propia
+RES02257,2025-05-13,2025-06-16,2025-06-18,Costa Azul,Bariloche,Argentina,simple,4,2.0,75.0,150.0,telefono
+RES02258,2024-05-21,2024-06-26,2024-07-05,Costa Azul,Salta,Argentina,suite,4,9.0,180.0,1620.0,web_propia
+RES02260,2024-06-05,2024-07-09,2024-07-17,Posada del Sol,Salta,Argentina,suite,4,8.0,198.0,1584.0,booking
+RES02263,2024-03-23,2024-04-13,2024-04-18,Posada del Sol,Mendoza,Argentina,simple,3,5.0,75.0,375.0,agencia
+RES02265,2025-05-30,2025-08-13,2025-08-17,Posada del Sol,Cusco,Peru,suite,4,4.0,180.0,720.0,telefono
+RES02266,2024-12-31,2025-03-13,2025-03-17,Hotel Andino,Bariloche,Argentina,doble,2,4.0,105.05,420.2,booking
+RES02268,2025-04-29,2025-07-19,2025-07-22,Mirador Resort,Florianopolis,Brasil,suite,4,3.0,198.0,594.0,web_propia
+RES02274,2024-12-01,2025-01-23,2025-02-01,Gran Plaza,Mendoza,Argentina,doble,1,9.0,95.5,859.5,web_propia
+RES02278,2025-03-19,2025-04-26,2025-05-06,Mirador Resort,Mendoza,Argentina,doble,1,10.0,105.05,1050.5,web_propia
+RES02279,2024-05-24,2024-06-13,2024-06-21,Hotel Andino,Cusco,Peru,simple,1,8.0,66.0,528.0,agencia
+RES02281,2025-07-12,2025-08-21,2025-08-26,Costa Azul,Florianopolis,Brasil,simple,4,5.0,60.0,300.0,telefono
+RES02283,2025-06-25,2025-08-08,2025-08-16,Gran Plaza,Salta,Argentina,doble,2,8.0,105.05,840.4,web_propia
+RES02285,2025-01-29,2025-02-20,2025-02-24,Posada del Sol,Bariloche,Argentina,suite,3,4.0,225.0,900.0,telefono
+RES02286,2025-06-27,2025-07-11,2025-07-15,Posada del Sol,Bariloche,Argentina,simple,3,4.0,66.0,264.0,telefono
+RES02293,2024-12-03,2024-12-21,2024-12-28,Hotel Andino,Cusco,Peru,doble,3,7.0,105.05,735.35,web_propia
+RES02297,2025-01-22,2025-03-19,2025-03-21,Hotel Andino,Mendoza,Argentina,simple,4,2.0,75.0,150.0,web_propia
+RES02299,2024-02-07,2024-05-05,2024-05-08,Hotel Andino,Bariloche,Argentina,simple,4,3.0,66.0,198.0,agencia
+RES02300,2024-12-07,2024-12-14,2024-12-15,Posada del Sol,Punta del Este,Uruguay,suite,4,1.0,225.0,225.0,agencia
+RES02305,2024-05-16,2024-06-02,2024-06-11,Posada del Sol,Salta,Argentina,doble,4,9.0,95.5,859.5,agencia
+RES02310,2025-09-15,2025-11-19,2025-11-22,Mirador Resort,Punta del Este,Uruguay,suite,1,3.0,180.0,540.0,web_propia
+RES02312,2024-11-19,2024-12-14,2024-12-17,Posada del Sol,Cusco,Peru,doble,4,3.0,95.5,286.5,web_propia
+RES02316,2025-05-06,2025-05-20,2025-05-24,Posada del Sol,Bariloche,Argentina,suite,1,4.0,225.0,900.0,booking
+RES02319,2024-02-10,2024-04-02,2024-04-08,Mirador Resort,Mendoza,Argentina,doble,1,6.0,95.5,573.0,telefono
+RES02320,2025-04-14,2025-05-24,2025-05-27,Hotel Andino,Salta,Argentina,simple,2,3.0,75.0,225.0,web_propia
+RES02321,2024-03-12,2024-06-01,2024-06-10,Gran Plaza,Cusco,Peru,doble,1,9.0,119.38,1074.42,telefono
+RES02325,2024-12-10,2025-01-18,2025-01-22,Gran Plaza,Salta,Argentina,simple,4,4.0,75.0,300.0,telefono
+RES02326,2024-06-30,2024-09-06,2024-09-12,Gran Plaza,Cusco,Peru,simple,1,6.0,66.0,396.0,agencia
+RES02327,2023-11-05,2024-01-24,2024-02-03,Gran Plaza,Salta,Argentina,suite,2,10.0,180.0,1800.0,telefono
+RES02328,2025-01-25,2025-02-17,2025-02-18,Mirador Resort,Salta,Argentina,simple,1,1.0,60.0,60.0,agencia
+RES02331,2025-04-10,2025-07-07,2025-07-12,Hotel Andino,Salta,Argentina,doble,1,5.0,119.38,596.9,booking
+RES02333,2024-12-06,2025-02-25,2025-03-02,Hotel Andino,Cartagena,Colombia,suite,1,5.0,180.0,900.0,web_propia
+RES02336,2025-09-19,2025-09-29,2025-10-02,Gran Plaza,Cusco,Peru,doble,3,3.0,95.5,286.5,booking
+RES02337,2024-02-05,2024-03-10,2024-03-11,Hotel Andino,Cartagena,Colombia,doble,4,1.0,119.38,119.38,telefono
+RES02338,2024-02-16,2024-02-22,2024-02-28,Gran Plaza,Punta del Este,Uruguay,suite,4,6.0,198.0,1188.0,booking
+RES02340,2023-12-31,2024-03-09,2024-03-17,Mirador Resort,Mendoza,Argentina,suite,3,8.0,198.0,1584.0,web_propia
+RES02341,2025-01-13,2025-03-05,2025-03-10,Gran Plaza,Punta del Este,Uruguay,suite,2,5.0,180.0,900.0,booking
+RES02342,2024-02-07,2024-03-03,2024-03-10,Posada del Sol,Cusco,Peru,doble,4,7.0,105.05,735.35,agencia
+RES02348,2024-03-24,2024-04-03,2024-04-08,Mirador Resort,Bariloche,Argentina,doble,1,5.0,95.5,477.5,agencia
+RES02349,2024-04-19,2024-05-05,2024-05-15,Costa Azul,Cartagena,Colombia,doble,1,10.0,95.5,955.0,web_propia
+RES02351,2025-10-29,2025-12-11,2025-12-15,Gran Plaza,Salta,Argentina,doble,1,4.0,95.5,382.0,agencia
+RES02353,2024-10-08,2024-10-27,2024-11-02,Costa Azul,Florianopolis,Brasil,doble,1,6.0,119.38,716.28,web_propia
+RES02354,2024-09-17,2024-09-29,2024-10-05,Hotel Andino,Punta del Este,Uruguay,doble,4,6.0,95.5,573.0,booking
+RES02356,2025-10-18,2025-11-02,2025-11-10,Posada del Sol,Cusco,Peru,doble,2,8.0,105.05,840.4,booking
+RES02358,2025-09-24,2025-10-16,2025-10-19,Mirador Resort,Bariloche,Argentina,suite,3,3.0,225.0,675.0,web_propia
+RES02359,2024-02-15,2024-05-11,2024-05-20,Gran Plaza,Salta,Argentina,simple,1,9.0,60.0,540.0,web_propia
+RES02361,2024-03-16,2024-06-08,2024-06-15,Costa Azul,Mendoza,Argentina,simple,4,7.0,66.0,462.0,booking
+RES02362,2024-02-21,2024-03-26,2024-04-03,Hotel Andino,Punta del Este,Uruguay,doble,4,8.0,95.5,764.0,agencia
+RES02364,2024-10-24,2025-01-07,2025-01-09,Hotel Andino,Salta,Argentina,doble,3,2.0,95.5,191.0,booking
+RES02365,2025-02-19,2025-03-06,2025-03-08,Posada del Sol,Mendoza,Argentina,simple,1,2.0,75.0,150.0,telefono
+RES02366,2025-01-19,2025-01-27,2025-01-28,Posada del Sol,Salta,Argentina,simple,4,1.0,66.0,66.0,booking
+RES02369,2024-04-02,2024-06-09,2024-06-19,Hotel Andino,Florianopolis,Brasil,doble,2,10.0,105.05,1050.5,agencia
+RES02370,2024-10-27,2025-01-23,2025-01-25,Posada del Sol,Salta,Argentina,doble,2,2.0,95.5,191.0,telefono
+RES02373,2025-04-01,2025-05-22,2025-05-25,Costa Azul,Bariloche,Argentina,simple,2,3.0,60.0,180.0,booking
+RES02374,2025-05-27,2025-08-05,2025-08-13,Posada del Sol,Cusco,Peru,simple,2,8.0,66.0,528.0,booking
+RES02376,2023-10-18,2024-01-10,2024-01-17,Mirador Resort,Florianopolis,Brasil,suite,1,7.0,198.0,1386.0,telefono
+RES02377,2024-08-22,2024-09-28,2024-10-03,Posada del Sol,Cartagena,Colombia,simple,2,5.0,75.0,375.0,agencia
+RES02379,2025-05-02,2025-05-24,2025-05-26,Mirador Resort,Bariloche,Argentina,suite,4,2.0,180.0,360.0,telefono
+RES02380,2025-03-29,2025-05-21,2025-05-25,Hotel Andino,Florianopolis,Brasil,doble,4,4.0,119.38,477.52,booking
+RES02381,2023-12-11,2024-02-20,2024-02-23,Posada del Sol,Florianopolis,Brasil,doble,2,3.0,119.38,358.14,telefono
+RES02382,2024-05-05,2024-07-05,2024-07-07,Mirador Resort,Salta,Argentina,simple,4,2.0,66.0,132.0,web_propia
+RES02384,2025-03-02,2025-05-23,2025-05-25,Costa Azul,Mendoza,Argentina,suite,4,2.0,198.0,396.0,web_propia
+RES02385,2024-03-24,2024-05-07,2024-05-12,Gran Plaza,Cartagena,Colombia,doble,1,5.0,119.38,596.9,telefono
+RES02392,2025-03-17,2025-03-25,2025-03-27,Mirador Resort,Florianopolis,Brasil,doble,4,2.0,105.05,210.1,web_propia
+RES02393,2025-02-03,2025-04-04,2025-04-09,Hotel Andino,Bariloche,Argentina,suite,3,5.0,180.0,900.0,web_propia
+RES02395,2024-05-04,2024-05-23,2024-05-25,Posada del Sol,Mendoza,Argentina,suite,3,2.0,225.0,450.0,booking
+RES02396,2024-05-02,2024-05-26,2024-06-05,Gran Plaza,Salta,Argentina,doble,1,10.0,105.05,1050.5,telefono
+RES02397,2024-12-01,2025-01-15,2025-01-16,Gran Plaza,Cusco,Peru,simple,3,1.0,75.0,75.0,web_propia
+RES02398,2025-09-27,2025-12-11,2025-12-20,Gran Plaza,Cartagena,Colombia,suite,1,9.0,198.0,1782.0,agencia
+RES02402,2025-10-18,2025-11-14,2025-11-16,Posada del Sol,Bariloche,Argentina,doble,1,2.0,119.38,238.76,booking
+RES02403,2023-12-26,2024-03-12,2024-03-19,Gran Plaza,Mendoza,Argentina,suite,4,7.0,198.0,1386.0,booking
+RES02405,2024-09-30,2024-11-22,2024-11-30,Posada del Sol,Cartagena,Colombia,doble,3,8.0,95.5,764.0,booking
+RES02407,2024-09-11,2024-11-27,2024-12-04,Posada del Sol,Florianopolis,Brasil,suite,2,7.0,225.0,1575.0,telefono
+RES02408,2024-11-01,2025-01-15,2025-01-21,Mirador Resort,Cartagena,Colombia,suite,2,6.0,198.0,1188.0,agencia
+RES02409,2024-12-19,2024-12-26,2024-12-27,Posada del Sol,Punta del Este,Uruguay,simple,4,1.0,75.0,75.0,booking
+RES02412,2023-10-13,2024-01-06,2024-01-07,Gran Plaza,Florianopolis,Brasil,suite,3,1.0,198.0,198.0,web_propia
+RES02413,2024-07-06,2024-09-10,2024-09-11,Costa Azul,Florianopolis,Brasil,simple,4,1.0,60.0,60.0,web_propia
+RES02414,2025-06-06,2025-08-13,2025-08-23,Posada del Sol,Cusco,Peru,doble,1,10.0,95.5,955.0,telefono
+RES02417,2025-05-09,2025-05-15,2025-05-17,Posada del Sol,Salta,Argentina,doble,2,2.0,105.05,210.1,web_propia
+RES02420,2025-06-08,2025-08-24,2025-09-03,Posada del Sol,Salta,Argentina,suite,1,10.0,180.0,1800.0,agencia
+RES02423,2025-07-08,2025-09-18,2025-09-22,Costa Azul,Florianopolis,Brasil,doble,3,4.0,119.38,477.52,telefono
+RES02425,2025-04-02,2025-04-18,2025-04-21,Posada del Sol,Cusco,Peru,suite,1,3.0,198.0,594.0,telefono
+RES02426,2024-01-08,2024-03-27,2024-04-05,Hotel Andino,Punta del Este,Uruguay,doble,3,9.0,95.5,859.5,web_propia
+RES02427,2025-01-08,2025-01-20,2025-01-23,Mirador Resort,Cusco,Peru,simple,2,3.0,66.0,198.0,telefono
+RES02434,2024-01-20,2024-04-07,2024-04-15,Gran Plaza,Mendoza,Argentina,suite,1,8.0,225.0,1800.0,web_propia
+RES02435,2023-12-03,2024-03-01,2024-03-10,Posada del Sol,Salta,Argentina,suite,1,9.0,180.0,1620.0,telefono
+RES02438,2024-10-17,2025-01-06,2025-01-16,Mirador Resort,Florianopolis,Brasil,doble,3,10.0,95.5,955.0,telefono
+RES02439,2025-02-05,2025-05-01,2025-05-11,Posada del Sol,Bariloche,Argentina,suite,1,10.0,198.0,1980.0,agencia
+RES02442,2024-05-02,2024-06-21,2024-06-30,Gran Plaza,Mendoza,Argentina,simple,2,9.0,66.0,594.0,telefono
+RES02443,2025-06-14,2025-07-26,2025-07-29,Gran Plaza,Bariloche,Argentina,suite,2,3.0,180.0,540.0,agencia
+RES02445,2025-04-10,2025-05-04,2025-05-13,Gran Plaza,Bariloche,Argentina,simple,3,9.0,75.0,675.0,agencia
+RES02449,2024-11-08,2025-01-11,2025-01-18,Gran Plaza,Florianopolis,Brasil,simple,4,7.0,60.0,420.0,telefono
+RES02450,2025-09-12,2025-09-26,2025-10-02,Hotel Andino,Punta del Este,Uruguay,suite,1,6.0,180.0,1080.0,telefono
+RES02451,2025-10-28,2025-11-10,2025-11-11,Mirador Resort,Punta del Este,Uruguay,suite,4,1.0,225.0,225.0,telefono
+RES02452,2023-11-02,2024-01-03,2024-01-11,Hotel Andino,Cartagena,Colombia,doble,2,8.0,119.38,955.04,agencia
+RES02453,2025-10-20,2025-11-01,2025-11-04,Mirador Resort,Cartagena,Colombia,doble,4,3.0,105.05,315.15,telefono
+RES02455,2025-08-17,2025-10-16,2025-10-17,Gran Plaza,Punta del Este,Uruguay,suite,4,1.0,180.0,180.0,telefono
+RES02457,2024-12-20,2025-03-17,2025-03-18,Posada del Sol,Florianopolis,Brasil,doble,4,1.0,95.5,95.5,telefono
+RES02461,2024-06-04,2024-06-24,2024-07-03,Mirador Resort,Salta,Argentina,suite,4,9.0,198.0,1782.0,telefono
+RES02463,2024-02-01,2024-04-26,2024-05-06,Posada del Sol,Salta,Argentina,suite,1,10.0,225.0,2250.0,web_propia
+RES02466,2024-09-16,2024-11-24,2024-11-28,Posada del Sol,Cartagena,Colombia,simple,1,4.0,60.0,240.0,booking
+RES02467,2025-02-24,2025-03-18,2025-03-24,Gran Plaza,Cartagena,Colombia,doble,2,6.0,95.5,573.0,booking
+RES02468,2024-02-17,2024-02-25,2024-03-02,Hotel Andino,Cartagena,Colombia,suite,4,6.0,225.0,1350.0,telefono
+RES02469,2025-09-15,2025-11-13,2025-11-15,Gran Plaza,Cusco,Peru,suite,3,2.0,225.0,450.0,booking
+RES02471,2024-09-30,2024-11-07,2024-11-08,Posada del Sol,Salta,Argentina,simple,2,1.0,75.0,75.0,agencia
+RES02474,2024-01-19,2024-04-04,2024-04-09,Mirador Resort,Salta,Argentina,doble,4,5.0,95.5,477.5,web_propia
+RES02475,2025-11-16,2025-11-23,2025-12-02,Gran Plaza,Salta,Argentina,doble,1,9.0,95.5,859.5,booking
+RES02477,2024-07-19,2024-08-10,2024-08-14,Posada del Sol,Bariloche,Argentina,suite,2,4.0,225.0,900.0,web_propia
+RES02478,2024-07-20,2024-10-07,2024-10-09,Posada del Sol,Florianopolis,Brasil,suite,4,2.0,198.0,396.0,telefono
+RES02480,2025-02-24,2025-03-02,2025-03-11,Posada del Sol,Florianopolis,Brasil,doble,1,9.0,95.5,859.5,agencia
+RES02481,2025-05-24,2025-07-26,2025-07-29,Gran Plaza,Bariloche,Argentina,suite,1,3.0,225.0,675.0,telefono
+RES02484,2024-02-24,2024-03-06,2024-03-07,Posada del Sol,Punta del Este,Uruguay,suite,1,1.0,225.0,225.0,agencia
+RES02487,2024-08-05,2024-09-03,2024-09-05,Costa Azul,Cusco,Peru,suite,1,2.0,225.0,450.0,telefono
+RES02491,2025-01-23,2025-03-18,2025-03-27,Posada del Sol,Florianopolis,Brasil,suite,1,9.0,225.0,2025.0,agencia
+RES02494,2024-01-13,2024-03-27,2024-03-29,Costa Azul,Bariloche,Argentina,simple,1,2.0,66.0,132.0,agencia
